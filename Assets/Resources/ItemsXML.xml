@@ -1,0 +1,28 @@
+<Items>
+  <Item type="Armor" mass="40" icon="SmallArmor" stack="1" name="Zbroja" ID="0">
+    <ArmorType>Gloves</ArmorType>
+    <Bonus BonusType="ArmorPoints" Value="30" ></Bonus>
+    <Bonus BonusType="HealthPoints" Value="300" ></Bonus>
+  </Item>
+  <Item type="Weapon" mass="40" icon="SmallSword" stack="1" name="SmallSword" ID="1">
+    <WeaponType>OneHand</WeaponType>
+    <MinimalDamage>10</MinimalDamage>
+    <MaximalDamage>40</MaximalDamage>
+    <Range>20.4</Range>
+  </Item>
+  <Item type="Weapon" mass="25" icon="ThunderSword" stack="1" name="Miecz Gromu" ID="2">
+    <WeaponType>OneHand</WeaponType>
+    <MinimalDamage>10</MinimalDamage>
+    <MaximalDamage>40</MaximalDamage>
+    <Range>22</Range>
+  </Item>
+  <Item type="Resource" mass="40" icon="Iron" stack="500" name="Zelazo" ID="3">
+    <ResourceType>Iron</ResourceType>
+  </Item>
+  <Item type="Potion" mass="40" icon="HealthPotion" stack="25" name="MiksturaZycia" ID="4">
+    <StatisticsID>1</StatisticsID>
+    <BeginValue>400</BeginValue>
+    <OverTimeValue>1000</OverTimeValue>
+    <Duration>10.5</Duration>
+  </Item>
+</Items>

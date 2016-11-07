@@ -1,0 +1,5315 @@
+fileFormatVersion: 2
+guid: b493e76efd2dd0d4b84aa6f825d8d7bf
+timeCreated: 1475419358
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ItemsRPG_0
+    21300002: ItemsRPG_1
+    21300004: ItemsRPG_2
+    21300006: ItemsRPG_3
+    21300008: ItemsRPG_4
+    21300010: ItemsRPG_5
+    21300012: ItemsRPG_6
+    21300014: ItemsRPG_7
+    21300016: ItemsRPG_8
+    21300018: ItemsRPG_9
+    21300020: ItemsRPG_10
+    21300022: ItemsRPG_11
+    21300024: ItemsRPG_12
+    21300026: ItemsRPG_13
+    21300028: ItemsRPG_14
+    21300030: ItemsRPG_15
+    21300032: ItemsRPG_16
+    21300034: ItemsRPG_17
+    21300036: ItemsRPG_18
+    21300038: ItemsRPG_19
+    21300040: ItemsRPG_20
+    21300042: ItemsRPG_21
+    21300044: ItemsRPG_22
+    21300046: ItemsRPG_23
+    21300048: ItemsRPG_24
+    21300050: ItemsRPG_25
+    21300052: ItemsRPG_26
+    21300054: ItemsRPG_27
+    21300056: ItemsRPG_28
+    21300058: ItemsRPG_29
+    21300060: ItemsRPG_30
+    21300062: ItemsRPG_31
+    21300064: ItemsRPG_32
+    21300066: ItemsRPG_33
+    21300068: ItemsRPG_34
+    21300070: ItemsRPG_35
+    21300072: ItemsRPG_36
+    21300074: ItemsRPG_37
+    21300076: ItemsRPG_38
+    21300078: ItemsRPG_39
+    21300080: ItemsRPG_40
+    21300082: ItemsRPG_41
+    21300084: ItemsRPG_42
+    21300086: ItemsRPG_43
+    21300088: ItemsRPG_44
+    21300090: ItemsRPG_45
+    21300092: ItemsRPG_46
+    21300094: ItemsRPG_47
+    21300096: SmallSword
+    21300098: ItemsRPG_49
+    21300100: ItemsRPG_50
+    21300102: ItemsRPG_51
+    21300104: ItemsRPG_52
+    21300106: ItemsRPG_53
+    21300108: ItemsRPG_54
+    21300110: ItemsRPG_55
+    21300112: ItemsRPG_56
+    21300114: ItemsRPG_57
+    21300116: ThunderSword
+    21300118: ItemsRPG_59
+    21300120: ItemsRPG_60
+    21300122: ItemsRPG_61
+    21300124: ItemsRPG_62
+    21300126: ItemsRPG_63
+    21300128: ItemsRPG_64
+    21300130: ItemsRPG_65
+    21300132: ItemsRPG_66
+    21300134: ItemsRPG_67
+    21300136: ItemsRPG_68
+    21300138: ItemsRPG_69
+    21300140: ItemsRPG_70
+    21300142: ItemsRPG_71
+    21300144: ItemsRPG_72
+    21300146: ItemsRPG_73
+    21300148: ItemsRPG_74
+    21300150: ItemsRPG_75
+    21300152: ItemsRPG_76
+    21300154: ItemsRPG_77
+    21300156: ItemsRPG_78
+    21300158: ItemsRPG_79
+    21300160: ItemsRPG_80
+    21300162: ItemsRPG_81
+    21300164: ItemsRPG_82
+    21300166: ItemsRPG_83
+    21300168: ItemsRPG_84
+    21300170: ItemsRPG_85
+    21300172: ItemsRPG_86
+    21300174: ItemsRPG_87
+    21300176: ItemsRPG_88
+    21300178: ItemsRPG_89
+    21300180: ItemsRPG_90
+    21300182: ItemsRPG_91
+    21300184: ItemsRPG_92
+    21300186: ItemsRPG_93
+    21300188: ItemsRPG_94
+    21300190: ItemsRPG_95
+    21300192: ItemsRPG_96
+    21300194: ItemsRPG_97
+    21300196: ItemsRPG_98
+    21300198: ItemsRPG_99
+    21300200: ItemsRPG_100
+    21300202: ItemsRPG_101
+    21300204: ItemsRPG_102
+    21300206: ItemsRPG_103
+    21300208: ItemsRPG_104
+    21300210: ItemsRPG_105
+    21300212: ItemsRPG_106
+    21300214: ItemsRPG_107
+    21300216: ItemsRPG_108
+    21300218: ItemsRPG_109
+    21300220: ItemsRPG_110
+    21300222: ItemsRPG_111
+    21300224: ItemsRPG_112
+    21300226: ItemsRPG_113
+    21300228: ItemsRPG_114
+    21300230: ItemsRPG_115
+    21300232: ItemsRPG_116
+    21300234: ItemsRPG_117
+    21300236: ItemsRPG_118
+    21300238: ItemsRPG_119
+    21300240: ItemsRPG_120
+    21300242: ItemsRPG_121
+    21300244: ItemsRPG_122
+    21300246: ItemsRPG_123
+    21300248: ItemsRPG_124
+    21300250: ItemsRPG_125
+    21300252: ItemsRPG_126
+    21300254: ItemsRPG_127
+    21300256: SmallArmor
+    21300258: ItemsRPG_129
+    21300260: ItemsRPG_130
+    21300262: ItemsRPG_131
+    21300264: ItemsRPG_132
+    21300266: ItemsRPG_133
+    21300268: ItemsRPG_134
+    21300270: ItemsRPG_135
+    21300272: ItemsRPG_136
+    21300274: ItemsRPG_137
+    21300276: ItemsRPG_138
+    21300278: ItemsRPG_139
+    21300280: ItemsRPG_140
+    21300282: ItemsRPG_141
+    21300284: ItemsRPG_142
+    21300286: ItemsRPG_143
+    21300288: ItemsRPG_144
+    21300290: ItemsRPG_145
+    21300292: ItemsRPG_146
+    21300294: ItemsRPG_147
+    21300296: ItemsRPG_148
+    21300298: ItemsRPG_149
+    21300300: ItemsRPG_150
+    21300302: ItemsRPG_151
+    21300304: ItemsRPG_152
+    21300306: ItemsRPG_153
+    21300308: ItemsRPG_154
+    21300310: ItemsRPG_155
+    21300312: ItemsRPG_156
+    21300314: ItemsRPG_157
+    21300316: ItemsRPG_158
+    21300318: ItemsRPG_159
+    21300320: ItemsRPG_160
+    21300322: ItemsRPG_161
+    21300324: ItemsRPG_162
+    21300326: ItemsRPG_163
+    21300328: ItemsRPG_164
+    21300330: ItemsRPG_165
+    21300332: ItemsRPG_166
+    21300334: ItemsRPG_167
+    21300336: ItemsRPG_168
+    21300338: ItemsRPG_169
+    21300340: ItemsRPG_170
+    21300342: ItemsRPG_171
+    21300344: ItemsRPG_172
+    21300346: ItemsRPG_173
+    21300348: ItemsRPG_174
+    21300350: ItemsRPG_175
+    21300352: HealthPotion
+    21300354: ItemsRPG_177
+    21300356: ItemsRPG_178
+    21300358: ItemsRPG_179
+    21300360: ItemsRPG_180
+    21300362: ItemsRPG_181
+    21300364: ItemsRPG_182
+    21300366: ItemsRPG_183
+    21300368: ItemsRPG_184
+    21300370: ItemsRPG_185
+    21300372: ItemsRPG_186
+    21300374: ItemsRPG_187
+    21300376: ItemsRPG_188
+    21300378: ItemsRPG_189
+    21300380: ItemsRPG_190
+    21300382: ItemsRPG_191
+    21300384: ItemsRPG_192
+    21300386: ItemsRPG_193
+    21300388: ItemsRPG_194
+    21300390: ItemsRPG_195
+    21300392: ItemsRPG_196
+    21300394: ItemsRPG_197
+    21300396: Iron
+    21300398: ItemsRPG_199
+    21300400: ItemsRPG_200
+    21300402: ItemsRPG_201
+    21300404: ItemsRPG_202
+    21300406: ItemsRPG_203
+    21300408: ItemsRPG_204
+    21300410: ItemsRPG_205
+    21300412: ItemsRPG_206
+    21300414: ItemsRPG_207
+    21300416: ItemsRPG_208
+    21300418: ItemsRPG_209
+    21300420: ItemsRPG_210
+    21300422: ItemsRPG_211
+    21300424: ItemsRPG_212
+    21300426: ItemsRPG_213
+    21300428: ItemsRPG_214
+    21300430: ItemsRPG_215
+    21300432: ItemsRPG_216
+    21300434: ItemsRPG_217
+    21300436: ItemsRPG_218
+    21300438: ItemsRPG_219
+    21300440: ItemsRPG_220
+    21300442: ItemsRPG_221
+    21300444: ItemsRPG_222
+    21300446: ItemsRPG_223
+    21300448: ItemsRPG_224
+    21300450: ItemsRPG_225
+    21300452: ItemsRPG_226
+    21300454: ItemsRPG_227
+    21300456: ItemsRPG_228
+    21300458: ItemsRPG_229
+    21300460: ItemsRPG_230
+    21300462: ItemsRPG_231
+    21300464: ItemsRPG_232
+    21300466: ItemsRPG_233
+    21300468: ItemsRPG_234
+    21300470: ItemsRPG_235
+    21300472: ItemsRPG_236
+    21300474: ItemsRPG_237
+    21300476: ItemsRPG_238
+    21300478: ItemsRPG_239
+    21300480: ItemsRPG_240
+    21300482: ItemsRPG_241
+    21300484: ItemsRPG_242
+    21300486: ItemsRPG_243
+    21300488: ItemsRPG_244
+    21300490: ItemsRPG_245
+    21300492: ItemsRPG_246
+    21300494: ItemsRPG_247
+    21300496: ItemsRPG_248
+    21300498: ItemsRPG_249
+    21300500: ItemsRPG_250
+    21300502: ItemsRPG_251
+    21300504: ItemsRPG_252
+    21300506: ItemsRPG_253
+    21300508: ItemsRPG_254
+    21300510: ItemsRPG_255
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ItemsRPG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 14}
+        - {x: -3, y: 14}
+        - {x: -12, y: 2}
+        - {x: -12, y: -9}
+        - {x: -4, y: -14}
+        - {x: 10, y: -14}
+        - {x: 12, y: -10}
+        - {x: 12, y: 8}
+        - {x: 7, y: 12}
+    - name: ItemsRPG_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 10}
+        - {x: -2, y: 10}
+        - {x: -12, y: 2}
+        - {x: -12, y: -10}
+        - {x: -7, y: -12}
+        - {x: 10, y: -12}
+        - {x: 14, y: -6}
+        - {x: 14, y: 4}
+    - name: ItemsRPG_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 14}
+        - {x: -5, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -8}
+        - {x: -13, y: -10}
+        - {x: 10, y: -10}
+        - {x: 14, y: -6}
+        - {x: 14, y: 7}
+    - name: ItemsRPG_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 12}
+        - {x: -3, y: 8}
+        - {x: -18, y: -2}
+        - {x: -18, y: -11}
+        - {x: -11, y: -14}
+        - {x: 12, y: -14}
+        - {x: 18, y: -2}
+        - {x: 18, y: 12}
+    - name: ItemsRPG_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 12}
+        - {x: -18, y: 9}
+        - {x: -18, y: -1}
+        - {x: -5, y: -12}
+        - {x: 10, y: -12}
+        - {x: 16, y: -9}
+        - {x: 16, y: 5}
+        - {x: 13, y: 12}
+    - name: ItemsRPG_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 14}
+        - {x: -16, y: 6}
+        - {x: -20, y: -5}
+        - {x: -20, y: -10}
+        - {x: -12, y: -16}
+        - {x: 11, y: -16}
+        - {x: 18, y: -9}
+        - {x: 18, y: 1}
+        - {x: 7, y: 14}
+    - name: ItemsRPG_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -14, y: 5}
+        - {x: -14, y: -10}
+        - {x: -11, y: -16}
+        - {x: 7, y: -16}
+        - {x: 14, y: -6}
+        - {x: 14, y: 11}
+        - {x: 11, y: 14}
+    - name: ItemsRPG_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 14}
+        - {x: -16, y: 1}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+        - {x: 17, y: -15}
+        - {x: 18, y: -10}
+        - {x: 18, y: 12}
+        - {x: 11, y: 14}
+    - name: ItemsRPG_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 12}
+        - {x: -14, y: -7}
+        - {x: -11, y: -12}
+        - {x: 10, y: -12}
+        - {x: 14, y: -5}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+    - name: ItemsRPG_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 18}
+        - {x: -3, y: 17}
+        - {x: -12, y: 8}
+        - {x: -12, y: -3}
+        - {x: -11, y: -14}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 10, y: -1}
+        - {x: 10, y: 17}
+        - {x: 9, y: 18}
+    - name: ItemsRPG_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 14}
+        - {x: -11, y: 14}
+        - {x: -14, y: 6}
+        - {x: -14, y: -5}
+        - {x: -4, y: -16}
+        - {x: 5, y: -16}
+        - {x: 10, y: -13}
+        - {x: 14, y: 0}
+        - {x: 14, y: 8}
+    - name: ItemsRPG_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 14}
+        - {x: -5, y: 13}
+        - {x: -12, y: 4}
+        - {x: -12, y: -4}
+        - {x: -4, y: -12}
+        - {x: 9, y: -12}
+        - {x: 12, y: -5}
+        - {x: 12, y: 13}
+        - {x: 10, y: 14}
+    - name: ItemsRPG_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 14}
+        - {x: -14, y: -12}
+        - {x: -10, y: -14}
+        - {x: 5, y: -14}
+        - {x: 9, y: -13}
+        - {x: 16, y: -11}
+        - {x: 16, y: 4}
+        - {x: 11, y: 14}
+    - name: ItemsRPG_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 18}
+        - {x: -14, y: 0}
+        - {x: -14, y: -15}
+        - {x: -9, y: -18}
+        - {x: 4, y: -18}
+        - {x: 9, y: -17}
+        - {x: 14, y: -14}
+        - {x: 14, y: 5}
+        - {x: 11, y: 18}
+    - name: ItemsRPG_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -11}
+        - {x: -9, y: -16}
+        - {x: 4, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 10}
+        - {x: 11, y: 14}
+        - {x: 6, y: 18}
+        - {x: -8, y: 18}
+        - {x: -12, y: 9}
+    - name: ItemsRPG_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 14}
+        - {x: -8, y: 12}
+        - {x: -12, y: -3}
+        - {x: -12, y: -14}
+        - {x: -11, y: -16}
+        - {x: 2, y: -16}
+        - {x: 12, y: -12}
+        - {x: 14, y: -2}
+        - {x: 14, y: 11}
+        - {x: 10, y: 14}
+    - name: ItemsRPG_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 12}
+        - {x: -16, y: 10}
+        - {x: -16, y: -4}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -5}
+        - {x: 16, y: 12}
+    - name: ItemsRPG_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -16, y: 6}
+        - {x: -16, y: -8}
+        - {x: -6, y: -16}
+        - {x: 10, y: -16}
+        - {x: 18, y: -13}
+        - {x: 18, y: 9}
+        - {x: 10, y: 12}
+    - name: ItemsRPG_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 10}
+        - {x: -13, y: 10}
+        - {x: -16, y: 3}
+        - {x: -16, y: -8}
+        - {x: -8, y: -12}
+        - {x: 8, y: -12}
+        - {x: 16, y: -4}
+        - {x: 16, y: 4}
+    - name: ItemsRPG_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 10}
+        - {x: -13, y: 10}
+        - {x: -16, y: 3}
+        - {x: -16, y: -8}
+        - {x: -8, y: -12}
+        - {x: 8, y: -12}
+        - {x: 16, y: -4}
+        - {x: 16, y: 4}
+    - name: ItemsRPG_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -16, y: 6}
+        - {x: -16, y: -8}
+        - {x: -6, y: -16}
+        - {x: 10, y: -16}
+        - {x: 18, y: -13}
+        - {x: 18, y: 9}
+        - {x: 10, y: 12}
+    - name: ItemsRPG_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -14, y: 2}
+        - {x: -14, y: -9}
+        - {x: -5, y: -14}
+        - {x: 10, y: -14}
+        - {x: 16, y: -4}
+        - {x: 16, y: 5}
+        - {x: 6, y: 14}
+    - name: ItemsRPG_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -7, y: 15}
+        - {x: -10, y: 10}
+        - {x: -12, y: 5}
+        - {x: -12, y: -12}
+        - {x: -7, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 12, y: 14}
+        - {x: 10, y: 16}
+    - name: ItemsRPG_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -20, y: -1}
+        - {x: -20, y: -11}
+        - {x: -17, y: -16}
+        - {x: 10, y: -16}
+        - {x: 18, y: -14}
+        - {x: 18, y: 11}
+        - {x: 7, y: 20}
+    - name: ItemsRPG_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 20}
+        - {x: 2, y: 20}
+        - {x: -6, y: 17}
+        - {x: -14, y: 0}
+        - {x: -14, y: -14}
+        - {x: -9, y: -20}
+        - {x: 0, y: -20}
+        - {x: 4, y: -16}
+        - {x: 16, y: 1}
+        - {x: 16, y: 15}
+    - name: ItemsRPG_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 10}
+        - {x: -14, y: 4}
+        - {x: -14, y: -10}
+        - {x: -8, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -10}
+        - {x: 14, y: 9}
+        - {x: 8, y: 10}
+    - name: ItemsRPG_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 10}
+        - {x: -20, y: 4}
+        - {x: -20, y: -11}
+        - {x: -12, y: -16}
+        - {x: 14, y: -16}
+        - {x: 18, y: -9}
+        - {x: 18, y: -2}
+        - {x: 10, y: 10}
+    - name: ItemsRPG_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -15, y: 1}
+        - {x: -20, y: -6}
+        - {x: -20, y: -10}
+        - {x: -12, y: -16}
+        - {x: 14, y: -16}
+        - {x: 18, y: -10}
+        - {x: 18, y: -1}
+        - {x: 6, y: 10}
+    - name: ItemsRPG_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 10}
+        - {x: -14, y: 4}
+        - {x: -14, y: -6}
+        - {x: -5, y: -11}
+        - {x: 6, y: -14}
+        - {x: 14, y: -14}
+        - {x: 16, y: -11}
+        - {x: 16, y: -1}
+        - {x: 4, y: 10}
+    - name: ItemsRPG_29
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -18, y: 8}
+        - {x: -18, y: -11}
+        - {x: -7, y: -16}
+        - {x: 14, y: -16}
+        - {x: 18, y: -8}
+        - {x: 18, y: 8}
+        - {x: 10, y: 14}
+    - name: ItemsRPG_30
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -18, y: -2}
+        - {x: -18, y: -15}
+        - {x: -13, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 7}
+        - {x: 13, y: 16}
+    - name: ItemsRPG_31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -16, y: -1}
+        - {x: -16, y: -16}
+        - {x: -5, y: -16}
+        - {x: 16, y: -1}
+        - {x: 16, y: 16}
+    - name: ItemsRPG_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: -8, y: 12}
+        - {x: -14, y: 5}
+        - {x: -14, y: -8}
+        - {x: -12, y: -14}
+        - {x: 3, y: -14}
+        - {x: 5, y: -13}
+        - {x: 14, y: -4}
+        - {x: 14, y: 9}
+    - name: ItemsRPG_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -14, y: 8}
+        - {x: -14, y: -10}
+        - {x: -8, y: -16}
+        - {x: 6, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 11}
+        - {x: 5, y: 14}
+    - name: ItemsRPG_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -12, y: 5}
+        - {x: -12, y: -4}
+        - {x: -7, y: -12}
+        - {x: 3, y: -12}
+        - {x: 7, y: -11}
+        - {x: 14, y: -5}
+        - {x: 14, y: 4}
+        - {x: 9, y: 12}
+    - name: ItemsRPG_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -16}
+        - {x: -3, y: -16}
+        - {x: 12, y: -8}
+        - {x: 12, y: 7}
+        - {x: 10, y: 12}
+        - {x: -1, y: 12}
+        - {x: -9, y: 9}
+        - {x: -14, y: -6}
+    - name: ItemsRPG_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -12, y: 4}
+        - {x: -12, y: -6}
+        - {x: -4, y: -14}
+        - {x: 6, y: -14}
+        - {x: 12, y: -8}
+        - {x: 12, y: 2}
+        - {x: 4, y: 10}
+    - name: ItemsRPG_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: -6, y: 12}
+        - {x: -12, y: 4}
+        - {x: -12, y: -2}
+        - {x: -2, y: -12}
+        - {x: 8, y: -12}
+        - {x: 14, y: -6}
+        - {x: 14, y: 4}
+    - name: ItemsRPG_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -14, y: 4}
+        - {x: -14, y: -7}
+        - {x: -4, y: -14}
+        - {x: 11, y: -14}
+        - {x: 14, y: -7}
+        - {x: 14, y: 7}
+        - {x: 5, y: 12}
+    - name: ItemsRPG_39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -16, y: 8}
+        - {x: -16, y: -12}
+        - {x: -15, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -10}
+        - {x: 16, y: 5}
+        - {x: 8, y: 12}
+    - name: ItemsRPG_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 12}
+        - {x: -16, y: 12}
+        - {x: -16, y: -11}
+        - {x: -13, y: -12}
+        - {x: 11, y: -12}
+        - {x: 14, y: -10}
+        - {x: 16, y: -5}
+        - {x: 16, y: 10}
+    - name: ItemsRPG_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -6}
+        - {x: -8, y: -13}
+        - {x: -8, y: -14}
+        - {x: 9, y: -14}
+        - {x: 14, y: -11}
+        - {x: 14, y: 2}
+        - {x: 7, y: 12}
+        - {x: -5, y: 12}
+        - {x: -12, y: 8}
+    - name: ItemsRPG_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -9, y: 16}
+        - {x: -18, y: 3}
+        - {x: -18, y: -14}
+        - {x: -12, y: -16}
+        - {x: 17, y: -16}
+        - {x: 20, y: -9}
+        - {x: 20, y: -6}
+        - {x: 18, y: 12}
+    - name: ItemsRPG_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 16}
+        - {x: -7, y: 16}
+        - {x: -12, y: 5}
+        - {x: -12, y: -14}
+        - {x: -3, y: -14}
+        - {x: 16, y: -7}
+        - {x: 16, y: 8}
+        - {x: 9, y: 15}
+    - name: ItemsRPG_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -14, y: -3}
+        - {x: -10, y: -14}
+        - {x: 8, y: -14}
+        - {x: 16, y: -11}
+        - {x: 16, y: 4}
+        - {x: 4, y: 16}
+        - {x: -2, y: 16}
+    - name: ItemsRPG_45
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 14}
+        - {x: -3, y: 13}
+        - {x: -16, y: 8}
+        - {x: -18, y: 3}
+        - {x: -18, y: -8}
+        - {x: -9, y: -16}
+        - {x: 16, y: -16}
+        - {x: 20, y: -6}
+        - {x: 20, y: 7}
+        - {x: 11, y: 14}
+    - name: ItemsRPG_46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -11, y: 12}
+        - {x: -16, y: 3}
+        - {x: -16, y: -11}
+        - {x: -15, y: -14}
+        - {x: 2, y: -14}
+        - {x: 16, y: -11}
+        - {x: 16, y: 14}
+    - name: ItemsRPG_47
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 14}
+        - {x: 2, y: 14}
+        - {x: -4, y: 12}
+        - {x: -16, y: -2}
+        - {x: -16, y: -8}
+        - {x: -8, y: -16}
+        - {x: -4, y: -16}
+        - {x: 5, y: -13}
+        - {x: 18, y: -2}
+        - {x: 18, y: 7}
+    - name: SmallSword
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -13}
+        - {x: -14, y: -16}
+        - {x: 4, y: -16}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+        - {x: 8, y: 16}
+        - {x: -16, y: 5}
+    - name: ItemsRPG_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 18}
+        - {x: 3, y: 18}
+        - {x: -18, y: 10}
+        - {x: -18, y: -14}
+        - {x: -14, y: -18}
+        - {x: -2, y: -18}
+        - {x: 8, y: -13}
+        - {x: 6, y: -8}
+        - {x: 18, y: 10}
+    - name: ItemsRPG_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 18}
+        - {x: 4, y: 18}
+        - {x: -18, y: 10}
+        - {x: -18, y: -16}
+        - {x: -15, y: -18}
+        - {x: -2, y: -18}
+        - {x: 8, y: -13}
+        - {x: 18, y: 6}
+    - name: ItemsRPG_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 20}
+        - {x: -20, y: 11}
+        - {x: -20, y: -15}
+        - {x: -17, y: -20}
+        - {x: -1, y: -20}
+        - {x: 6, y: -19}
+        - {x: 16, y: -14}
+        - {x: 20, y: 0}
+        - {x: 20, y: 20}
+    - name: ItemsRPG_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: -17, y: -1}
+        - {x: -18, y: -10}
+        - {x: -18, y: -20}
+        - {x: -17, y: -22}
+        - {x: 9, y: -22}
+        - {x: 18, y: 0}
+        - {x: 18, y: 18}
+        - {x: 14, y: 20}
+    - name: ItemsRPG_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 20}
+        - {x: -10, y: 4}
+        - {x: -16, y: -2}
+        - {x: -18, y: -11}
+        - {x: -18, y: -16}
+        - {x: -15, y: -20}
+        - {x: -7, y: -20}
+        - {x: 9, y: -15}
+        - {x: 22, y: 12}
+        - {x: 22, y: 20}
+    - name: ItemsRPG_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -19}
+        - {x: -16, y: -20}
+        - {x: 6, y: -20}
+        - {x: 18, y: 1}
+        - {x: 18, y: 18}
+        - {x: 5, y: 18}
+        - {x: -18, y: 9}
+    - name: ItemsRPG_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 24}
+        - {x: -20, y: 8}
+        - {x: -20, y: -18}
+        - {x: -19, y: -20}
+        - {x: 5, y: -20}
+        - {x: 16, y: -3}
+        - {x: 16, y: 24}
+    - name: ItemsRPG_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 18}
+        - {x: -18, y: -3}
+        - {x: -18, y: -18}
+        - {x: -14, y: -20}
+        - {x: -3, y: -20}
+        - {x: 12, y: -12}
+        - {x: 16, y: -2}
+        - {x: 16, y: 18}
+    - name: ItemsRPG_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 22}
+        - {x: 5, y: 22}
+        - {x: -9, y: 4}
+        - {x: -16, y: -6}
+        - {x: -16, y: -14}
+        - {x: -14, y: -18}
+        - {x: 4, y: -18}
+        - {x: 11, y: -16}
+        - {x: 18, y: 2}
+        - {x: 18, y: 18}
+    - name: ThunderSword
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 20}
+        - {x: -18, y: 7}
+        - {x: -20, y: -2}
+        - {x: -20, y: -20}
+        - {x: 3, y: -20}
+        - {x: 20, y: -6}
+        - {x: 20, y: 20}
+    - name: ItemsRPG_59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: 5, y: 19}
+        - {x: -20, y: 3}
+        - {x: -20, y: -16}
+        - {x: -10, y: -20}
+        - {x: 5, y: -20}
+        - {x: 20, y: 8}
+        - {x: 20, y: 20}
+    - name: ItemsRPG_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 22}
+        - {x: -18, y: -4}
+        - {x: -18, y: -20}
+        - {x: -3, y: -20}
+        - {x: 9, y: -16}
+        - {x: 20, y: 10}
+        - {x: 20, y: 20}
+        - {x: 16, y: 22}
+    - name: ItemsRPG_61
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 20}
+        - {x: -8, y: 15}
+        - {x: -6, y: 8}
+        - {x: -2, y: 4}
+        - {x: 0, y: 4}
+        - {x: -4, y: 4}
+        - {x: -16, y: 2}
+        - {x: -20, y: -7}
+        - {x: -20, y: -20}
+        - {x: -7, y: -20}
+        - {x: 15, y: -14}
+        - {x: 20, y: -3}
+        - {x: 20, y: 16}
+        - {x: 16, y: 20}
+    - name: ItemsRPG_62
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 22}
+        - {x: -22, y: 3}
+        - {x: -22, y: -9}
+        - {x: -20, y: -22}
+        - {x: 13, y: -22}
+        - {x: 22, y: 7}
+        - {x: 22, y: 22}
+    - name: ItemsRPG_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 14}
+        - {x: -14, y: 9}
+        - {x: -14, y: -14}
+        - {x: 1, y: -14}
+        - {x: 14, y: -1}
+        - {x: 14, y: 14}
+    - name: ItemsRPG_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: -12, y: 1}
+        - {x: -12, y: -9}
+        - {x: -10, y: -12}
+        - {x: 7, y: -12}
+        - {x: 10, y: -4}
+        - {x: 10, y: 14}
+    - name: ItemsRPG_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16}
+        - {x: -12, y: 4}
+        - {x: -14, y: -2}
+        - {x: -14, y: -11}
+        - {x: -13, y: -12}
+        - {x: -4, y: -12}
+        - {x: 4, y: -10}
+        - {x: 12, y: 4}
+        - {x: 12, y: 14}
+        - {x: 8, y: 16}
+    - name: ItemsRPG_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -8, y: 10}
+        - {x: -12, y: 4}
+        - {x: -12, y: -13}
+        - {x: -11, y: -14}
+        - {x: 1, y: -14}
+        - {x: 6, y: -12}
+        - {x: 14, y: 0}
+        - {x: 14, y: 12}
+        - {x: 12, y: 16}
+    - name: ItemsRPG_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -14, y: -1}
+        - {x: -14, y: -14}
+        - {x: 0, y: -14}
+        - {x: 12, y: -4}
+        - {x: 12, y: 12}
+    - name: ItemsRPG_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 12}
+        - {x: -12, y: -1}
+        - {x: -12, y: -11}
+        - {x: -11, y: -14}
+        - {x: 4, y: -14}
+        - {x: 12, y: -1}
+        - {x: 12, y: 12}
+    - name: ItemsRPG_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 4}
+        - {x: 3, y: 12}
+        - {x: -4, y: 12}
+        - {x: -14, y: -1}
+        - {x: -14, y: -10}
+        - {x: -10, y: -14}
+        - {x: -8, y: -14}
+        - {x: 9, y: -11}
+        - {x: 18, y: -3}
+        - {x: 18, y: 0}
+    - name: ItemsRPG_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 8}
+        - {x: 7, y: 18}
+        - {x: -2, y: 18}
+        - {x: -11, y: 14}
+        - {x: -18, y: -10}
+        - {x: -18, y: -14}
+        - {x: -14, y: -18}
+        - {x: -6, y: -18}
+        - {x: 13, y: -10}
+        - {x: 20, y: 0}
+    - name: ItemsRPG_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -20, y: 10}
+        - {x: -20, y: -20}
+        - {x: 8, y: -20}
+        - {x: 16, y: -18}
+        - {x: 22, y: -4}
+        - {x: 22, y: 6}
+        - {x: 6, y: 22}
+    - name: ItemsRPG_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 22}
+        - {x: -4, y: 22}
+        - {x: -11, y: 20}
+        - {x: -22, y: -12}
+        - {x: -22, y: -21}
+        - {x: -19, y: -22}
+        - {x: -5, y: -22}
+        - {x: 22, y: -12}
+        - {x: 22, y: 3}
+        - {x: 20, y: 6}
+    - name: ItemsRPG_73
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 24}
+        - {x: -9, y: 22}
+        - {x: -20, y: -4}
+        - {x: -20, y: -17}
+        - {x: -18, y: -20}
+        - {x: 16, y: -20}
+        - {x: 22, y: -8}
+        - {x: 22, y: 16}
+        - {x: 15, y: 24}
+    - name: ItemsRPG_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22}
+        - {x: -18, y: 19}
+        - {x: -18, y: -18}
+        - {x: 5, y: -18}
+        - {x: 22, y: -11}
+        - {x: 22, y: 11}
+        - {x: 11, y: 22}
+    - name: ItemsRPG_75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -16, y: -8}
+        - {x: -16, y: -16}
+        - {x: -7, y: -16}
+        - {x: 16, y: -3}
+        - {x: 16, y: 16}
+    - name: ItemsRPG_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 18}
+        - {x: -16, y: -8}
+        - {x: -16, y: -12}
+        - {x: -12, y: -16}
+        - {x: -8, y: -16}
+        - {x: 18, y: 10}
+        - {x: 18, y: 14}
+        - {x: 14, y: 18}
+    - name: ItemsRPG_77
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 18}
+        - {x: -11, y: 1}
+        - {x: -20, y: -14}
+        - {x: -20, y: -18}
+        - {x: -19, y: -22}
+        - {x: -12, y: -22}
+        - {x: 4, y: -14}
+        - {x: 20, y: 5}
+        - {x: 20, y: 15}
+        - {x: 18, y: 18}
+    - name: ItemsRPG_78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 18}
+        - {x: -18, y: -8}
+        - {x: -18, y: -18}
+        - {x: -17, y: -20}
+        - {x: -7, y: -20}
+        - {x: 18, y: 4}
+        - {x: 18, y: 17}
+        - {x: 17, y: 18}
+    - name: ItemsRPG_79
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 22}
+        - {x: -18, y: -8}
+        - {x: -18, y: -19}
+        - {x: -12, y: -22}
+        - {x: -4, y: -22}
+        - {x: 18, y: 10}
+        - {x: 18, y: 19}
+        - {x: 12, y: 22}
+    - name: ItemsRPG_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 18}
+        - {x: -5, y: 11}
+        - {x: -14, y: -6}
+        - {x: -14, y: -14}
+        - {x: -10, y: -18}
+        - {x: -5, y: -18}
+        - {x: 14, y: -4}
+        - {x: 14, y: 9}
+        - {x: 9, y: 18}
+    - name: ItemsRPG_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 14}
+        - {x: 3, y: 14}
+        - {x: -1, y: 11}
+        - {x: -16, y: -9}
+        - {x: -16, y: -14}
+        - {x: -14, y: -18}
+        - {x: -6, y: -18}
+        - {x: -1, y: -16}
+        - {x: 18, y: -1}
+        - {x: 18, y: 12}
+    - name: ItemsRPG_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -8, y: 15}
+        - {x: -18, y: -2}
+        - {x: -18, y: -17}
+        - {x: -15, y: -20}
+        - {x: -6, y: -20}
+        - {x: 13, y: -7}
+        - {x: 16, y: 5}
+        - {x: 16, y: 16}
+    - name: ItemsRPG_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 22}
+        - {x: 3, y: 22}
+        - {x: -20, y: -6}
+        - {x: -20, y: -18}
+        - {x: 1, y: -18}
+        - {x: 16, y: 2}
+        - {x: 16, y: 20}
+    - name: ItemsRPG_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 20}
+        - {x: -20, y: -3}
+        - {x: -20, y: -14}
+        - {x: -13, y: -18}
+        - {x: -2, y: -18}
+        - {x: 20, y: -1}
+        - {x: 20, y: 18}
+        - {x: 13, y: 20}
+    - name: ItemsRPG_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 18}
+        - {x: -4, y: 18}
+        - {x: -22, y: 7}
+        - {x: -22, y: -19}
+        - {x: -19, y: -22}
+        - {x: -2, y: -22}
+        - {x: 10, y: -10}
+        - {x: 16, y: 0}
+    - name: ItemsRPG_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -13, y: 5}
+        - {x: -18, y: -10}
+        - {x: -18, y: -14}
+        - {x: -14, y: -18}
+        - {x: -1, y: -18}
+        - {x: 16, y: -11}
+        - {x: 16, y: 16}
+    - name: ItemsRPG_87
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 16}
+        - {x: -16, y: -5}
+        - {x: -16, y: -18}
+        - {x: -7, y: -18}
+        - {x: 16, y: -5}
+        - {x: 16, y: 14}
+        - {x: 10, y: 16}
+    - name: ItemsRPG_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 14}
+        - {x: -2, y: 9}
+        - {x: -12, y: -4}
+        - {x: -16, y: -10}
+        - {x: -16, y: -14}
+        - {x: -15, y: -18}
+        - {x: -7, y: -18}
+        - {x: 14, y: -5}
+        - {x: 14, y: 8}
+        - {x: 9, y: 14}
+    - name: ItemsRPG_89
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 14}
+        - {x: 10, y: 18}
+        - {x: -1, y: 18}
+        - {x: -18, y: -8}
+        - {x: -18, y: -14}
+        - {x: -14, y: -18}
+        - {x: -10, y: -18}
+        - {x: -6, y: -14}
+        - {x: 10, y: -4}
+        - {x: 18, y: 4}
+    - name: ItemsRPG_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: 0, y: 20}
+        - {x: -10, y: 10}
+        - {x: -20, y: -11}
+        - {x: -20, y: -20}
+        - {x: -2, y: -20}
+        - {x: 13, y: -16}
+        - {x: 22, y: -4}
+        - {x: 22, y: 8}
+        - {x: 20, y: 14}
+    - name: ItemsRPG_91
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -1}
+        - {x: 22, y: 18}
+        - {x: 20, y: 20}
+        - {x: -9, y: 20}
+        - {x: -20, y: 1}
+        - {x: -20, y: -22}
+        - {x: -18, y: -24}
+        - {x: -10, y: -24}
+        - {x: -6, y: -20}
+        - {x: -6, y: -18}
+        - {x: 11, y: -12}
+    - name: ItemsRPG_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -20, y: 6}
+        - {x: -20, y: -22}
+        - {x: 13, y: -22}
+        - {x: 22, y: -7}
+        - {x: 22, y: 4}
+        - {x: 5, y: 20}
+    - name: ItemsRPG_93
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: -12, y: 7}
+        - {x: -12, y: -10}
+        - {x: -10, y: -16}
+        - {x: 3, y: -16}
+        - {x: 7, y: -14}
+        - {x: 12, y: -3}
+        - {x: 12, y: 10}
+        - {x: 10, y: 14}
+    - name: ItemsRPG_94
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 20}
+        - {x: -18, y: -6}
+        - {x: -18, y: -19}
+        - {x: -15, y: -22}
+        - {x: -5, y: -22}
+        - {x: 18, y: 0}
+        - {x: 18, y: 11}
+        - {x: 12, y: 20}
+    - name: ItemsRPG_95
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 16}
+        - {x: -14, y: 5}
+        - {x: -16, y: 1}
+        - {x: -16, y: -5}
+        - {x: -8, y: -16}
+        - {x: 2, y: -16}
+        - {x: 9, y: -14}
+        - {x: 14, y: 3}
+        - {x: 14, y: 15}
+        - {x: 12, y: 16}
+    - name: ItemsRPG_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 18}
+        - {x: -16, y: -6}
+        - {x: -16, y: -16}
+        - {x: -15, y: -18}
+        - {x: -5, y: -18}
+        - {x: 11, y: -12}
+        - {x: 16, y: 4}
+        - {x: 16, y: 18}
+    - name: ItemsRPG_97
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 18}
+        - {x: 8, y: 18}
+        - {x: -12, y: 3}
+        - {x: -20, y: -14}
+        - {x: -20, y: -18}
+        - {x: -16, y: -20}
+        - {x: -12, y: -20}
+        - {x: 18, y: 10}
+        - {x: 18, y: 17}
+    - name: ItemsRPG_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 22}
+        - {x: 2, y: 22}
+        - {x: -20, y: -13}
+        - {x: -20, y: -22}
+        - {x: -8, y: -22}
+        - {x: 20, y: 6}
+        - {x: 20, y: 14}
+    - name: ItemsRPG_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -22}
+        - {x: -12, y: -22}
+        - {x: 24, y: -4}
+        - {x: 24, y: 15}
+        - {x: 21, y: 24}
+        - {x: 3, y: 24}
+        - {x: -22, y: -5}
+    - name: ItemsRPG_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 18}
+        - {x: -22, y: -11}
+        - {x: -22, y: -17}
+        - {x: -18, y: -20}
+        - {x: -13, y: -20}
+        - {x: -9, y: -19}
+        - {x: 13, y: -7}
+        - {x: 20, y: 7}
+        - {x: 20, y: 18}
+    - name: ItemsRPG_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 10}
+        - {x: -1, y: 10}
+        - {x: -5, y: 9}
+        - {x: -16, y: 2}
+        - {x: -16, y: -8}
+        - {x: -13, y: -14}
+        - {x: -2, y: -14}
+        - {x: 16, y: -3}
+        - {x: 16, y: 2}
+    - name: ItemsRPG_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 2}
+        - {x: -16, y: -11}
+        - {x: -15, y: -14}
+        - {x: -2, y: -14}
+        - {x: 18, y: -4}
+        - {x: 18, y: 4}
+        - {x: 12, y: 12}
+        - {x: 1, y: 12}
+        - {x: -3, y: 11}
+    - name: ItemsRPG_103
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 3}
+        - {x: -16, y: -12}
+        - {x: -14, y: -14}
+        - {x: 0, y: -14}
+        - {x: 18, y: -7}
+        - {x: 18, y: 6}
+        - {x: 17, y: 7}
+        - {x: 11, y: 14}
+        - {x: 2, y: 14}
+        - {x: -12, y: 13}
+    - name: ItemsRPG_104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -16, y: 2}
+        - {x: -16, y: -12}
+        - {x: -11, y: -14}
+        - {x: 7, y: -14}
+        - {x: 18, y: -8}
+        - {x: 18, y: 6}
+        - {x: 14, y: 14}
+    - name: ItemsRPG_105
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -15, y: 11}
+        - {x: -16, y: 7}
+        - {x: -16, y: -9}
+        - {x: -14, y: -14}
+        - {x: 6, y: -14}
+        - {x: 18, y: -9}
+        - {x: 18, y: 6}
+        - {x: 13, y: 16}
+    - name: ItemsRPG_106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -15, y: 11}
+        - {x: -16, y: 9}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: 14}
+    - name: ItemsRPG_107
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 18}
+        - {x: -18, y: -18}
+        - {x: 16, y: -18}
+        - {x: 18, y: -15}
+        - {x: 18, y: 11}
+        - {x: 17, y: 18}
+    - name: ItemsRPG_108
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 16}
+        - {x: 4, y: 18}
+        - {x: -14, y: 18}
+        - {x: -18, y: 16}
+        - {x: -18, y: -16}
+        - {x: -16, y: -18}
+        - {x: 14, y: -18}
+        - {x: 18, y: -16}
+        - {x: 18, y: -1}
+        - {x: 16, y: 14}
+    - name: ItemsRPG_109
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 16}
+        - {x: -20, y: 16}
+        - {x: -20, y: -18}
+        - {x: 15, y: -18}
+        - {x: 17, y: -15}
+        - {x: 18, y: 7}
+    - name: ItemsRPG_110
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 15}
+        - {x: 7, y: 16}
+        - {x: -13, y: 16}
+        - {x: -18, y: 11}
+        - {x: -18, y: -12}
+        - {x: -17, y: -18}
+        - {x: 10, y: -18}
+        - {x: 16, y: -13}
+        - {x: 16, y: 13}
+    - name: ItemsRPG_111
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 18}
+        - {x: -18, y: 12}
+        - {x: -18, y: -18}
+        - {x: 12, y: -18}
+        - {x: 16, y: -13}
+        - {x: 16, y: 18}
+    - name: ItemsRPG_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 18}
+        - {x: -1, y: 17}
+        - {x: -14, y: 2}
+        - {x: -14, y: -8}
+        - {x: -4, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 12}
+        - {x: 10, y: 18}
+    - name: ItemsRPG_113
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -16, y: 3}
+        - {x: -16, y: -16}
+        - {x: 7, y: -16}
+        - {x: 16, y: -6}
+        - {x: 16, y: 6}
+        - {x: 12, y: 14}
+    - name: ItemsRPG_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -5, y: 11}
+        - {x: -10, y: 7}
+        - {x: -10, y: -9}
+        - {x: 0, y: -12}
+        - {x: 10, y: -12}
+        - {x: 12, y: -10}
+        - {x: 12, y: 1}
+        - {x: 8, y: 12}
+    - name: ItemsRPG_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -16, y: 5}
+        - {x: -16, y: -10}
+        - {x: -11, y: -16}
+        - {x: -4, y: -16}
+        - {x: 13, y: -14}
+        - {x: 18, y: 1}
+        - {x: 18, y: 12}
+    - name: ItemsRPG_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -15}
+        - {x: -13, y: -18}
+        - {x: 4, y: -18}
+        - {x: 16, y: -7}
+        - {x: 16, y: 16}
+        - {x: 0, y: 16}
+        - {x: -5, y: 15}
+        - {x: -18, y: 3}
+    - name: ItemsRPG_117
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -14}
+        - {x: 3, y: -14}
+        - {x: 12, y: -10}
+        - {x: 14, y: -6}
+        - {x: 14, y: 8}
+        - {x: 10, y: 14}
+    - name: ItemsRPG_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -18, y: 5}
+        - {x: -18, y: -16}
+        - {x: -8, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 10}
+        - {x: 11, y: 16}
+    - name: ItemsRPG_119
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -16, y: 2}
+        - {x: -16, y: -7}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 4}
+        - {x: 5, y: 16}
+    - name: ItemsRPG_120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -13, y: 15}
+        - {x: -12, y: 12}
+        - {x: -16, y: 2}
+        - {x: -16, y: -10}
+        - {x: -14, y: -12}
+        - {x: -12, y: -12}
+        - {x: -3, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -15}
+        - {x: 16, y: -6}
+        - {x: 16, y: 14}
+        - {x: 12, y: 16}
+    - name: ItemsRPG_121
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 16}
+        - {x: -16, y: -8}
+        - {x: -16, y: -16}
+        - {x: -6, y: -16}
+        - {x: 8, y: -11}
+        - {x: 16, y: 4}
+        - {x: 16, y: 14}
+        - {x: 11, y: 16}
+    - name: ItemsRPG_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -20, y: -9}
+        - {x: -20, y: -18}
+        - {x: -11, y: -18}
+        - {x: 13, y: -9}
+        - {x: 20, y: -3}
+        - {x: 20, y: 8}
+        - {x: 16, y: 16}
+    - name: ItemsRPG_123
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 18}
+        - {x: -14, y: 18}
+        - {x: -14, y: -20}
+        - {x: 0, y: -20}
+        - {x: 14, y: -10}
+        - {x: 14, y: 1}
+        - {x: 12, y: 12}
+    - name: ItemsRPG_124
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 14}
+        - {x: -16, y: -2}
+        - {x: -16, y: -16}
+        - {x: -3, y: -16}
+        - {x: 12, y: 2}
+        - {x: 14, y: 7}
+        - {x: 14, y: 14}
+    - name: ItemsRPG_125
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -18}
+        - {x: 1, y: -18}
+        - {x: 16, y: -10}
+        - {x: 16, y: 7}
+        - {x: 14, y: 16}
+        - {x: -10, y: 16}
+        - {x: -14, y: 14}
+    - name: ItemsRPG_126
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -16}
+        - {x: -4, y: -16}
+        - {x: 14, y: 3}
+        - {x: 14, y: 14}
+    - name: ItemsRPG_127
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -18}
+        - {x: 5, y: -18}
+        - {x: 18, y: -3}
+        - {x: 18, y: 9}
+        - {x: 6, y: 16}
+    - name: SmallArmor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 14}
+        - {x: -10, y: 14}
+        - {x: -18, y: 10}
+        - {x: -18, y: -5}
+        - {x: -7, y: -18}
+        - {x: 8, y: -18}
+        - {x: 16, y: -11}
+        - {x: 16, y: -2}
+        - {x: 15, y: 7}
+    - name: ItemsRPG_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -16, y: 10}
+        - {x: -16, y: -12}
+        - {x: -8, y: -14}
+        - {x: 12, y: -14}
+        - {x: 16, y: -9}
+        - {x: 16, y: 5}
+        - {x: 14, y: 12}
+    - name: ItemsRPG_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -16, y: 15}
+        - {x: -16, y: -6}
+        - {x: -14, y: -12}
+        - {x: -11, y: -18}
+        - {x: 18, y: -18}
+        - {x: 18, y: 17}
+        - {x: 17, y: 18}
+    - name: ItemsRPG_131
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 20}
+        - {x: -14, y: 20}
+        - {x: -18, y: 19}
+        - {x: -18, y: -18}
+        - {x: -9, y: -20}
+        - {x: 16, y: -20}
+        - {x: 19, y: -15}
+        - {x: 20, y: -11}
+        - {x: 20, y: 16}
+    - name: ItemsRPG_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 20}
+        - {x: -14, y: 20}
+        - {x: -18, y: 19}
+        - {x: -18, y: -18}
+        - {x: -9, y: -20}
+        - {x: 16, y: -20}
+        - {x: 19, y: -15}
+        - {x: 20, y: -11}
+        - {x: 20, y: 16}
+    - name: ItemsRPG_133
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -20, y: 10}
+        - {x: -20, y: -13}
+        - {x: -19, y: -16}
+        - {x: -9, y: -20}
+        - {x: 16, y: -20}
+        - {x: 20, y: -17}
+        - {x: 20, y: 14}
+        - {x: 14, y: 20}
+    - name: ItemsRPG_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -18, y: 15}
+        - {x: -18, y: -2}
+        - {x: -16, y: -13}
+        - {x: -9, y: -20}
+        - {x: 13, y: -20}
+        - {x: 20, y: -16}
+        - {x: 20, y: 17}
+        - {x: 12, y: 20}
+    - name: ItemsRPG_135
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -11, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -9}
+        - {x: -7, y: -18}
+        - {x: 12, y: -18}
+        - {x: 18, y: -15}
+        - {x: 18, y: 8}
+        - {x: 13, y: 15}
+    - name: ItemsRPG_136
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 18}
+        - {x: 2, y: 18}
+        - {x: -18, y: 2}
+        - {x: -18, y: -10}
+        - {x: -12, y: -18}
+        - {x: 13, y: -18}
+        - {x: 18, y: -17}
+        - {x: 18, y: 5}
+        - {x: 14, y: 17}
+    - name: ItemsRPG_137
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -14, y: 7}
+        - {x: -14, y: -12}
+        - {x: -12, y: -18}
+        - {x: 12, y: -18}
+        - {x: 14, y: -13}
+        - {x: 14, y: 8}
+        - {x: 4, y: 16}
+    - name: ItemsRPG_138
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 20}
+        - {x: 4, y: 20}
+        - {x: -8, y: 16}
+        - {x: -16, y: 5}
+        - {x: -16, y: -17}
+        - {x: -11, y: -18}
+        - {x: 11, y: -18}
+        - {x: 17, y: -13}
+        - {x: 20, y: 0}
+        - {x: 20, y: 16}
+    - name: ItemsRPG_139
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 18}
+        - {x: -9, y: 18}
+        - {x: -14, y: 16}
+        - {x: -14, y: -16}
+        - {x: -8, y: -22}
+        - {x: -4, y: -22}
+        - {x: 13, y: -19}
+        - {x: 18, y: -15}
+        - {x: 18, y: 15}
+    - name: ItemsRPG_140
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 22}
+        - {x: -16, y: 22}
+        - {x: -16, y: -14}
+        - {x: -11, y: -20}
+        - {x: 1, y: -20}
+        - {x: 5, y: -19}
+        - {x: 12, y: -18}
+        - {x: 18, y: -8}
+        - {x: 18, y: 17}
+    - name: ItemsRPG_141
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 20}
+        - {x: -9, y: 20}
+        - {x: -16, y: 8}
+        - {x: -16, y: -5}
+        - {x: -5, y: -18}
+        - {x: 2, y: -18}
+        - {x: 16, y: -11}
+        - {x: 16, y: 8}
+        - {x: 15, y: 14}
+    - name: ItemsRPG_142
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -4, y: 14}
+        - {x: -16, y: 4}
+        - {x: -16, y: -6}
+        - {x: -7, y: -14}
+        - {x: 9, y: -14}
+        - {x: 14, y: -11}
+        - {x: 14, y: 13}
+        - {x: 10, y: 16}
+    - name: ItemsRPG_143
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -18, y: 9}
+        - {x: -18, y: -12}
+        - {x: -12, y: -14}
+        - {x: 12, y: -14}
+        - {x: 18, y: -2}
+        - {x: 18, y: 11}
+        - {x: 12, y: 14}
+    - name: ItemsRPG_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -14, y: 4}
+        - {x: -14, y: -6}
+        - {x: -6, y: -14}
+        - {x: 6, y: -14}
+        - {x: 14, y: -6}
+        - {x: 14, y: 4}
+        - {x: 6, y: 12}
+    - name: ItemsRPG_145
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -13}
+        - {x: -11, y: -18}
+        - {x: 11, y: -18}
+        - {x: 16, y: -13}
+        - {x: 16, y: 13}
+        - {x: 15, y: 16}
+    - name: ItemsRPG_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -3}
+        - {x: -9, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -8}
+        - {x: 16, y: 15}
+        - {x: 15, y: 16}
+    - name: ItemsRPG_147
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: -10, y: 20}
+        - {x: -16, y: 15}
+        - {x: -16, y: -5}
+        - {x: -14, y: -19}
+        - {x: -10, y: -22}
+        - {x: 9, y: -22}
+        - {x: 18, y: -1}
+        - {x: 18, y: 18}
+        - {x: 16, y: 19}
+    - name: ItemsRPG_148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -18, y: 8}
+        - {x: -18, y: -7}
+        - {x: -13, y: -20}
+        - {x: 13, y: -20}
+        - {x: 18, y: -13}
+        - {x: 18, y: 14}
+        - {x: 12, y: 16}
+    - name: ItemsRPG_149
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -16, y: 16}
+        - {x: -16, y: -17}
+        - {x: -13, y: -20}
+        - {x: 9, y: -20}
+        - {x: 16, y: -17}
+        - {x: 16, y: 17}
+        - {x: 10, y: 20}
+    - name: ItemsRPG_150
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -14, y: 5}
+        - {x: -14, y: -8}
+        - {x: -8, y: -16}
+        - {x: 0, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 10}
+        - {x: 6, y: 16}
+    - name: ItemsRPG_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -14, y: 5}
+        - {x: -14, y: -8}
+        - {x: -8, y: -16}
+        - {x: 0, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 10}
+        - {x: 6, y: 16}
+    - name: ItemsRPG_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -4, y: 16}
+        - {x: -16, y: 4}
+        - {x: -16, y: -10}
+        - {x: -10, y: -18}
+        - {x: 0, y: -18}
+        - {x: 16, y: -5}
+        - {x: 16, y: 6}
+    - name: ItemsRPG_153
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -15, y: 5}
+        - {x: -16, y: 3}
+        - {x: -16, y: -10}
+        - {x: -13, y: -18}
+        - {x: 3, y: -18}
+        - {x: 16, y: -13}
+        - {x: 16, y: 12}
+        - {x: 7, y: 16}
+    - name: ItemsRPG_154
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -15}
+        - {x: -12, y: -18}
+        - {x: 2, y: -18}
+        - {x: 14, y: -14}
+        - {x: 16, y: -4}
+        - {x: 16, y: 11}
+        - {x: 12, y: 16}
+    - name: ItemsRPG_155
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 4}
+        - {x: -18, y: -8}
+        - {x: -14, y: -17}
+        - {x: -13, y: -18}
+        - {x: 6, y: -18}
+        - {x: 20, y: -11}
+        - {x: 20, y: 1}
+        - {x: 19, y: 4}
+        - {x: 11, y: 18}
+        - {x: -5, y: 18}
+        - {x: -13, y: 15}
+    - name: ItemsRPG_156
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 20}
+        - {x: -5, y: 20}
+        - {x: -16, y: 16}
+        - {x: -18, y: 9}
+        - {x: -18, y: -11}
+        - {x: -14, y: -20}
+        - {x: 6, y: -20}
+        - {x: 20, y: -12}
+        - {x: 20, y: -4}
+        - {x: 16, y: 8}
+    - name: ItemsRPG_157
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 4}
+        - {x: -18, y: -8}
+        - {x: -14, y: -17}
+        - {x: -13, y: -18}
+        - {x: 6, y: -18}
+        - {x: 20, y: -11}
+        - {x: 20, y: 1}
+        - {x: 19, y: 4}
+        - {x: 11, y: 18}
+        - {x: -5, y: 18}
+        - {x: -13, y: 15}
+    - name: ItemsRPG_158
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 20}
+        - {x: -5, y: 20}
+        - {x: -16, y: 16}
+        - {x: -18, y: 9}
+        - {x: -18, y: -11}
+        - {x: -14, y: -20}
+        - {x: 6, y: -20}
+        - {x: 20, y: -12}
+        - {x: 20, y: -4}
+        - {x: 16, y: 8}
+    - name: ItemsRPG_159
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 4}
+        - {x: -18, y: -8}
+        - {x: -14, y: -17}
+        - {x: -13, y: -18}
+        - {x: 6, y: -18}
+        - {x: 20, y: -11}
+        - {x: 20, y: 1}
+        - {x: 19, y: 4}
+        - {x: 11, y: 18}
+        - {x: -5, y: 18}
+        - {x: -13, y: 15}
+    - name: ItemsRPG_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -14, y: 12}
+        - {x: -14, y: -11}
+        - {x: -12, y: -14}
+        - {x: 11, y: -14}
+        - {x: 14, y: -13}
+        - {x: 14, y: 4}
+        - {x: 7, y: 14}
+    - name: ItemsRPG_161
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 7}
+        - {x: -14, y: -12}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 5}
+        - {x: 14, y: 13}
+        - {x: 5, y: 16}
+        - {x: -10, y: 16}
+        - {x: -13, y: 11}
+    - name: ItemsRPG_162
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -11, y: 16}
+        - {x: -14, y: 10}
+        - {x: -14, y: -10}
+        - {x: -6, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 7}
+        - {x: 14, y: 13}
+    - name: ItemsRPG_163
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 11}
+        - {x: -16, y: 9}
+        - {x: -16, y: -11}
+        - {x: -13, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: -1}
+        - {x: 11, y: 9}
+        - {x: 2, y: 16}
+        - {x: -8, y: 16}
+    - name: ItemsRPG_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 18}
+        - {x: -13, y: 18}
+        - {x: -14, y: 15}
+        - {x: -14, y: -15}
+        - {x: -8, y: -18}
+        - {x: 15, y: -18}
+        - {x: 16, y: -15}
+        - {x: 16, y: 7}
+        - {x: 14, y: 15}
+    - name: ItemsRPG_165
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 18}
+        - {x: -14, y: 18}
+        - {x: -20, y: 9}
+        - {x: -20, y: -15}
+        - {x: -9, y: -18}
+        - {x: 16, y: -18}
+        - {x: 16, y: 6}
+        - {x: 14, y: 13}
+    - name: ItemsRPG_166
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 14}
+        - {x: -5, y: 14}
+        - {x: -10, y: 12}
+        - {x: -10, y: -13}
+        - {x: -5, y: -14}
+        - {x: 10, y: -14}
+        - {x: 12, y: -12}
+        - {x: 12, y: 2}
+        - {x: 10, y: 10}
+    - name: ItemsRPG_167
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -22, y: 3}
+        - {x: -22, y: -6}
+        - {x: -21, y: -8}
+        - {x: -8, y: -14}
+        - {x: 10, y: -14}
+        - {x: 20, y: -7}
+        - {x: 20, y: 7}
+        - {x: 10, y: 12}
+    - name: ItemsRPG_168
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 14}
+        - {x: -18, y: 5}
+        - {x: -18, y: -12}
+        - {x: -12, y: -14}
+        - {x: 16, y: -14}
+        - {x: 18, y: -8}
+        - {x: 18, y: 14}
+    - name: ItemsRPG_169
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -16, y: 6}
+        - {x: -16, y: -8}
+        - {x: -5, y: -14}
+        - {x: 15, y: -14}
+        - {x: 18, y: -9}
+        - {x: 18, y: 9}
+        - {x: 7, y: 12}
+    - name: ItemsRPG_170
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -4, y: 14}
+        - {x: -12, y: 4}
+        - {x: -12, y: -6}
+        - {x: -4, y: -14}
+        - {x: 4, y: -14}
+        - {x: 12, y: -9}
+        - {x: 12, y: 3}
+        - {x: 10, y: 10}
+    - name: ItemsRPG_171
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -12, y: 9}
+        - {x: -12, y: -7}
+        - {x: -8, y: -14}
+        - {x: 8, y: -14}
+        - {x: 12, y: -7}
+        - {x: 12, y: 11}
+        - {x: 5, y: 14}
+    - name: ItemsRPG_172
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -9}
+        - {x: -8, y: -14}
+        - {x: 4, y: -14}
+        - {x: 12, y: -11}
+        - {x: 12, y: 8}
+        - {x: 11, y: 9}
+        - {x: 8, y: 14}
+        - {x: -5, y: 14}
+        - {x: -12, y: 11}
+    - name: ItemsRPG_173
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -9}
+        - {x: -8, y: -14}
+        - {x: 4, y: -14}
+        - {x: 12, y: -11}
+        - {x: 12, y: 8}
+        - {x: 11, y: 9}
+        - {x: 8, y: 14}
+        - {x: -5, y: 14}
+        - {x: -12, y: 11}
+    - name: ItemsRPG_174
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -5}
+        - {x: -7, y: -20}
+        - {x: 2, y: -22}
+        - {x: 4, y: -22}
+        - {x: 14, y: -14}
+        - {x: 16, y: -7}
+        - {x: 16, y: 4}
+    - name: ItemsRPG_175
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 14}
+        - {x: -18, y: -5}
+        - {x: -12, y: -14}
+        - {x: 11, y: -14}
+        - {x: 18, y: -7}
+        - {x: 18, y: 10}
+        - {x: 8, y: 14}
+    - name: HealthPotion
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -10, y: 10}
+        - {x: -10, y: -14}
+        - {x: -3, y: -18}
+        - {x: 6, y: -18}
+        - {x: 10, y: -14}
+        - {x: 10, y: 16}
+    - name: ItemsRPG_177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -12}
+        - {x: -11, y: -18}
+        - {x: 8, y: -18}
+        - {x: 14, y: -17}
+        - {x: 14, y: 14}
+        - {x: 11, y: 16}
+        - {x: -7, y: 16}
+        - {x: -14, y: 14}
+    - name: ItemsRPG_178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -10, y: 10}
+        - {x: -10, y: -14}
+        - {x: -3, y: -18}
+        - {x: 6, y: -18}
+        - {x: 10, y: -14}
+        - {x: 10, y: 16}
+    - name: ItemsRPG_179
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -12}
+        - {x: -11, y: -18}
+        - {x: 8, y: -18}
+        - {x: 14, y: -17}
+        - {x: 14, y: 14}
+        - {x: 11, y: 16}
+        - {x: -7, y: 16}
+        - {x: -14, y: 14}
+    - name: ItemsRPG_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -10, y: 10}
+        - {x: -10, y: -14}
+        - {x: -3, y: -18}
+        - {x: 6, y: -18}
+        - {x: 10, y: -14}
+        - {x: 10, y: 16}
+    - name: ItemsRPG_181
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 14}
+        - {x: -5, y: 14}
+        - {x: -14, y: 10}
+        - {x: -16, y: -4}
+        - {x: -16, y: -10}
+        - {x: -10, y: -16}
+        - {x: -4, y: -16}
+        - {x: 12, y: -15}
+        - {x: 16, y: -7}
+        - {x: 16, y: 6}
+    - name: ItemsRPG_182
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 18}
+        - {x: -6, y: 13}
+        - {x: -14, y: 0}
+        - {x: -14, y: -11}
+        - {x: -13, y: -15}
+        - {x: -8, y: -18}
+        - {x: -1, y: -18}
+        - {x: 12, y: -5}
+        - {x: 12, y: 17}
+        - {x: 8, y: 18}
+    - name: ItemsRPG_183
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 18}
+        - {x: -9, y: 15}
+        - {x: -16, y: -5}
+        - {x: -16, y: -17}
+        - {x: -14, y: -18}
+        - {x: 6, y: -18}
+        - {x: 16, y: -1}
+        - {x: 16, y: 18}
+    - name: ItemsRPG_184
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 16}
+        - {x: -6, y: 16}
+        - {x: -16, y: 4}
+        - {x: -16, y: -6}
+        - {x: -14, y: -9}
+        - {x: 1, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -7}
+        - {x: 16, y: 14}
+    - name: ItemsRPG_185
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -6}
+        - {x: -6, y: -14}
+        - {x: 11, y: -14}
+        - {x: 14, y: -6}
+        - {x: 14, y: 10}
+        - {x: 10, y: 14}
+    - name: ItemsRPG_186
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -6}
+        - {x: -6, y: -14}
+        - {x: 11, y: -14}
+        - {x: 14, y: -6}
+        - {x: 14, y: 10}
+        - {x: 10, y: 14}
+    - name: ItemsRPG_187
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -14, y: 14}
+        - {x: -14, y: -7}
+        - {x: -9, y: -18}
+        - {x: 6, y: -18}
+        - {x: 14, y: -10}
+        - {x: 14, y: 7}
+        - {x: 2, y: 16}
+    - name: ItemsRPG_188
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 14}
+        - {x: 6, y: 14}
+        - {x: -5, y: 13}
+        - {x: -12, y: 7}
+        - {x: -12, y: -8}
+        - {x: -11, y: -12}
+        - {x: 2, y: -12}
+        - {x: 14, y: -5}
+        - {x: 14, y: 12}
+    - name: ItemsRPG_189
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -2, y: 20}
+        - {x: -14, y: 13}
+        - {x: -14, y: -12}
+        - {x: -12, y: -18}
+        - {x: -6, y: -20}
+        - {x: 6, y: -20}
+        - {x: 12, y: -17}
+        - {x: 14, y: -6}
+        - {x: 14, y: 10}
+    - name: ItemsRPG_190
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -14, y: 10}
+        - {x: -14, y: -13}
+        - {x: -12, y: -16}
+        - {x: 7, y: -16}
+        - {x: 14, y: -14}
+        - {x: 14, y: 6}
+        - {x: 7, y: 16}
+    - name: ItemsRPG_191
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 12}
+        - {x: -12, y: -2}
+        - {x: -12, y: -8}
+        - {x: -6, y: -14}
+        - {x: 0, y: -14}
+        - {x: 14, y: -4}
+        - {x: 14, y: 6}
+        - {x: 11, y: 12}
+    - name: ItemsRPG_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 14}
+        - {x: 4, y: 14}
+        - {x: -6, y: 10}
+        - {x: -14, y: 4}
+        - {x: -14, y: -7}
+        - {x: -11, y: -14}
+        - {x: 5, y: -14}
+        - {x: 11, y: -7}
+        - {x: 14, y: 2}
+        - {x: 14, y: 9}
+    - name: ItemsRPG_193
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16}
+        - {x: -13, y: 16}
+        - {x: -18, y: 13}
+        - {x: -18, y: -4}
+        - {x: -4, y: -16}
+        - {x: 8, y: -16}
+        - {x: 15, y: -11}
+        - {x: 18, y: -2}
+        - {x: 18, y: 11}
+    - name: ItemsRPG_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 14}
+        - {x: -16, y: 0}
+        - {x: -16, y: -12}
+        - {x: -10, y: -16}
+        - {x: -2, y: -16}
+        - {x: 16, y: 0}
+        - {x: 16, y: 11}
+        - {x: 14, y: 14}
+    - name: ItemsRPG_195
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -16, y: 6}
+        - {x: -16, y: -9}
+        - {x: -13, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -3}
+        - {x: 16, y: 11}
+        - {x: 12, y: 14}
+    - name: ItemsRPG_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 18}
+        - {x: -20, y: 10}
+        - {x: -20, y: -14}
+        - {x: -15, y: -20}
+        - {x: 2, y: -20}
+        - {x: 13, y: -17}
+        - {x: 20, y: -13}
+        - {x: 20, y: -2}
+        - {x: 14, y: 18}
+    - name: ItemsRPG_197
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -7, y: 13}
+        - {x: -16, y: 5}
+        - {x: -16, y: -2}
+        - {x: -15, y: -9}
+        - {x: -7, y: -18}
+        - {x: 8, y: -18}
+        - {x: 18, y: -12}
+        - {x: 18, y: 6}
+        - {x: 8, y: 14}
+    - name: Iron
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: 0, y: 16}
+        - {x: -5, y: 15}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: -9, y: -18}
+        - {x: 5, y: -18}
+        - {x: 12, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 0}
+        - {x: 15, y: 7}
+    - name: ItemsRPG_199
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -4}
+        - {x: -14, y: -14}
+        - {x: -9, y: -18}
+        - {x: 5, y: -18}
+        - {x: 16, y: -14}
+        - {x: 16, y: 13}
+        - {x: 14, y: 18}
+        - {x: -4, y: 18}
+        - {x: -16, y: 6}
+    - name: ItemsRPG_200
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18}
+        - {x: -16, y: 7}
+        - {x: -16, y: -4}
+        - {x: -14, y: -14}
+        - {x: -9, y: -18}
+        - {x: 8, y: -18}
+        - {x: 13, y: -17}
+        - {x: 16, y: -8}
+        - {x: 16, y: 13}
+        - {x: 6, y: 18}
+    - name: ItemsRPG_201
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 18}
+        - {x: -5, y: 18}
+        - {x: -14, y: 9}
+        - {x: -14, y: -14}
+        - {x: -11, y: -18}
+        - {x: 8, y: -18}
+        - {x: 16, y: -13}
+        - {x: 16, y: 6}
+        - {x: 7, y: 17}
+    - name: ItemsRPG_202
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16}
+        - {x: -4, y: 16}
+        - {x: -9, y: 15}
+        - {x: -16, y: 6}
+        - {x: -16, y: -15}
+        - {x: -8, y: -18}
+        - {x: 10, y: -18}
+        - {x: 16, y: -8}
+        - {x: 16, y: 6}
+    - name: ItemsRPG_203
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -4, y: 16}
+        - {x: -14, y: 1}
+        - {x: -14, y: -9}
+        - {x: -13, y: -13}
+        - {x: -8, y: -18}
+        - {x: 4, y: -18}
+        - {x: 12, y: -16}
+        - {x: 16, y: -8}
+        - {x: 16, y: 2}
+    - name: ItemsRPG_204
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 18}
+        - {x: -14, y: 5}
+        - {x: -14, y: -11}
+        - {x: -2, y: -18}
+        - {x: 7, y: -18}
+        - {x: 14, y: -9}
+        - {x: 14, y: 6}
+        - {x: 10, y: 18}
+    - name: ItemsRPG_205
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -12, y: 11}
+        - {x: -12, y: -6}
+        - {x: -10, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -14}
+        - {x: 14, y: 12}
+        - {x: 6, y: 14}
+    - name: ItemsRPG_206
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -16, y: 10}
+        - {x: -16, y: -1}
+        - {x: -7, y: -12}
+        - {x: -3, y: -14}
+        - {x: 9, y: -14}
+        - {x: 15, y: -12}
+        - {x: 16, y: -8}
+        - {x: 16, y: 14}
+    - name: ItemsRPG_207
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -18, y: 5}
+        - {x: -18, y: -12}
+        - {x: -14, y: -16}
+        - {x: 9, y: -16}
+        - {x: 18, y: -13}
+        - {x: 18, y: 8}
+        - {x: 13, y: 16}
+    - name: ItemsRPG_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 18}
+        - {x: -10, y: 18}
+        - {x: -14, y: 12}
+        - {x: -14, y: 8}
+        - {x: -10, y: 4}
+        - {x: -8, y: 4}
+        - {x: -14, y: 0}
+        - {x: -14, y: -9}
+        - {x: -13, y: -13}
+        - {x: -6, y: -18}
+        - {x: 8, y: -18}
+        - {x: 14, y: -10}
+        - {x: 14, y: 10}
+    - name: ItemsRPG_209
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -14, y: 11}
+        - {x: -14, y: -12}
+        - {x: -10, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 14}
+        - {x: 10, y: 16}
+    - name: ItemsRPG_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -11, y: 9}
+        - {x: -14, y: 2}
+        - {x: -14, y: -13}
+        - {x: -12, y: -16}
+        - {x: 0, y: -16}
+        - {x: 14, y: -6}
+        - {x: 14, y: 16}
+    - name: ItemsRPG_211
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -14, y: -12}
+        - {x: -12, y: -18}
+        - {x: 14, y: -18}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: ItemsRPG_212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 16}
+        - {x: -7, y: 15}
+        - {x: -16, y: 8}
+        - {x: -16, y: 0}
+        - {x: -4, y: -14}
+        - {x: 5, y: -14}
+        - {x: 9, y: -13}
+        - {x: 16, y: -6}
+        - {x: 16, y: 2}
+        - {x: 3, y: 16}
+    - name: ItemsRPG_213
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -12, y: 8}
+        - {x: -14, y: 5}
+        - {x: -14, y: -7}
+        - {x: -4, y: -12}
+        - {x: 6, y: -12}
+        - {x: 16, y: -6}
+        - {x: 16, y: 3}
+        - {x: 10, y: 12}
+    - name: ItemsRPG_214
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 14}
+        - {x: -18, y: 2}
+        - {x: -13, y: -9}
+        - {x: -8, y: -16}
+        - {x: 18, y: -16}
+        - {x: 18, y: 8}
+        - {x: 4, y: 14}
+    - name: ItemsRPG_215
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -12, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -7}
+        - {x: -8, y: -10}
+        - {x: -3, y: -11}
+        - {x: 4, y: -12}
+        - {x: 16, y: -12}
+        - {x: 16, y: 8}
+        - {x: 14, y: 14}
+    - name: ItemsRPG_216
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -7, y: 13}
+        - {x: -16, y: 9}
+        - {x: -16, y: -2}
+        - {x: -10, y: -14}
+        - {x: 13, y: -14}
+        - {x: 16, y: -7}
+        - {x: 16, y: 5}
+        - {x: 3, y: 14}
+    - name: ItemsRPG_217
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 16}
+        - {x: -7, y: 15}
+        - {x: -16, y: 8}
+        - {x: -16, y: 0}
+        - {x: -4, y: -14}
+        - {x: 5, y: -14}
+        - {x: 9, y: -13}
+        - {x: 16, y: -6}
+        - {x: 16, y: 2}
+        - {x: 3, y: 16}
+    - name: ItemsRPG_218
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -18, y: 11}
+        - {x: -18, y: -2}
+        - {x: -15, y: -11}
+        - {x: -10, y: -14}
+        - {x: -8, y: -14}
+        - {x: 1, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: -1}
+        - {x: 3, y: 14}
+    - name: ItemsRPG_219
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -16, y: 7}
+        - {x: -16, y: -16}
+        - {x: -11, y: -18}
+        - {x: 8, y: -18}
+        - {x: 16, y: -12}
+        - {x: 18, y: -4}
+        - {x: 18, y: 16}
+    - name: ItemsRPG_220
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22}
+        - {x: -20, y: 11}
+        - {x: -20, y: -4}
+        - {x: -13, y: -20}
+        - {x: -1, y: -20}
+        - {x: 9, y: -15}
+        - {x: 20, y: -5}
+        - {x: 20, y: 19}
+        - {x: 12, y: 22}
+    - name: ItemsRPG_221
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -18, y: 4}
+        - {x: -18, y: -8}
+        - {x: -10, y: -14}
+        - {x: 1, y: -14}
+        - {x: 12, y: -10}
+        - {x: 20, y: 2}
+        - {x: 20, y: 12}
+        - {x: 18, y: 16}
+    - name: ItemsRPG_222
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -18}
+        - {x: 14, y: -18}
+        - {x: 20, y: -16}
+        - {x: 20, y: 14}
+        - {x: 18, y: 16}
+        - {x: -17, y: 16}
+        - {x: -18, y: 10}
+    - name: ItemsRPG_223
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -16, y: 12}
+        - {x: -16, y: 4}
+        - {x: -13, y: -13}
+        - {x: -4, y: -20}
+        - {x: 4, y: -20}
+        - {x: 9, y: -19}
+        - {x: 16, y: -10}
+        - {x: 16, y: 9}
+        - {x: 5, y: 20}
+    - name: ItemsRPG_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 16}
+        - {x: -7, y: 16}
+        - {x: -16, y: 2}
+        - {x: -16, y: -2}
+        - {x: -2, y: -16}
+        - {x: 2, y: -16}
+        - {x: 16, y: -2}
+        - {x: 16, y: 7}
+    - name: ItemsRPG_225
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 18}
+        - {x: -8, y: 18}
+        - {x: -16, y: 6}
+        - {x: -16, y: -11}
+        - {x: -14, y: -16}
+        - {x: 1, y: -16}
+        - {x: 13, y: -10}
+        - {x: 14, y: -6}
+        - {x: 14, y: 4}
+        - {x: 11, y: 15}
+    - name: ItemsRPG_226
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -7}
+        - {x: -4, y: -14}
+        - {x: 11, y: -14}
+        - {x: 14, y: -8}
+        - {x: 14, y: 8}
+        - {x: 8, y: 14}
+    - name: ItemsRPG_227
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -20, y: 9}
+        - {x: -20, y: 0}
+        - {x: -16, y: -12}
+        - {x: -15, y: -14}
+        - {x: 12, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 4}
+        - {x: 15, y: 5}
+        - {x: 2, y: 16}
+        - {x: -2, y: 16}
+    - name: ItemsRPG_228
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -7}
+        - {x: -4, y: -14}
+        - {x: 11, y: -14}
+        - {x: 18, y: -9}
+        - {x: 18, y: -3}
+        - {x: 9, y: 10}
+        - {x: 3, y: 12}
+        - {x: -10, y: 12}
+        - {x: -14, y: 4}
+    - name: ItemsRPG_229
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -16, y: 9}
+        - {x: -16, y: -5}
+        - {x: -1, y: -14}
+        - {x: 10, y: -14}
+        - {x: 18, y: -6}
+        - {x: 18, y: -1}
+    - name: ItemsRPG_230
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 20}
+        - {x: -10, y: 20}
+        - {x: -16, y: 10}
+        - {x: -16, y: -10}
+        - {x: -7, y: -20}
+        - {x: 4, y: -20}
+        - {x: 14, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 14}
+    - name: ItemsRPG_231
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -8, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -3}
+        - {x: -4, y: -20}
+        - {x: 10, y: -20}
+        - {x: 14, y: -13}
+        - {x: 14, y: 7}
+        - {x: 12, y: 10}
+    - name: ItemsRPG_232
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 14}
+        - {x: -6, y: 12}
+        - {x: -14, y: 5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -3}
+        - {x: 14, y: 14}
+    - name: ItemsRPG_233
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 18}
+        - {x: -12, y: 10}
+        - {x: -12, y: -2}
+        - {x: -3, y: -18}
+        - {x: 6, y: -18}
+        - {x: 9, y: -17}
+        - {x: 14, y: 2}
+        - {x: 14, y: 9}
+        - {x: 6, y: 18}
+    - name: ItemsRPG_234
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 18}
+        - {x: -12, y: 10}
+        - {x: -12, y: -2}
+        - {x: -3, y: -18}
+        - {x: 6, y: -18}
+        - {x: 9, y: -17}
+        - {x: 14, y: 2}
+        - {x: 14, y: 9}
+        - {x: 6, y: 18}
+    - name: ItemsRPG_235
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 18}
+        - {x: -12, y: 10}
+        - {x: -12, y: -2}
+        - {x: -3, y: -18}
+        - {x: 6, y: -18}
+        - {x: 9, y: -17}
+        - {x: 14, y: 2}
+        - {x: 14, y: 9}
+        - {x: 6, y: 18}
+    - name: ItemsRPG_236
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 18}
+        - {x: -12, y: 10}
+        - {x: -12, y: -2}
+        - {x: -3, y: -18}
+        - {x: 6, y: -18}
+        - {x: 9, y: -17}
+        - {x: 14, y: 2}
+        - {x: 14, y: 9}
+        - {x: 6, y: 18}
+    - name: ItemsRPG_237
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 18}
+        - {x: -12, y: 10}
+        - {x: -12, y: -2}
+        - {x: -3, y: -18}
+        - {x: 6, y: -18}
+        - {x: 9, y: -17}
+        - {x: 14, y: 2}
+        - {x: 14, y: 9}
+        - {x: 6, y: 18}
+    - name: ItemsRPG_238
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 18}
+        - {x: -12, y: 10}
+        - {x: -12, y: -2}
+        - {x: -3, y: -18}
+        - {x: 6, y: -18}
+        - {x: 9, y: -17}
+        - {x: 14, y: 2}
+        - {x: 14, y: 9}
+        - {x: 6, y: 18}
+    - name: ItemsRPG_239
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -18, y: 8}
+        - {x: -18, y: -13}
+        - {x: -17, y: -15}
+        - {x: -13, y: -18}
+        - {x: 18, y: -18}
+        - {x: 18, y: 7}
+        - {x: 11, y: 20}
+    - name: ItemsRPG_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 14}
+        - {x: -14, y: 4}
+        - {x: -14, y: -6}
+        - {x: -6, y: -14}
+        - {x: 4, y: -14}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+        - {x: 8, y: 14}
+    - name: ItemsRPG_241
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -18, y: 9}
+        - {x: -18, y: -17}
+        - {x: -13, y: -20}
+        - {x: 7, y: -20}
+        - {x: 11, y: -19}
+        - {x: 18, y: -15}
+        - {x: 18, y: 6}
+        - {x: 11, y: 20}
+    - name: ItemsRPG_242
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 16}
+        - {x: -6, y: 16}
+        - {x: -10, y: 8}
+        - {x: -10, y: -10}
+        - {x: -2, y: -18}
+        - {x: 2, y: -18}
+        - {x: 10, y: -10}
+        - {x: 10, y: 12}
+    - name: ItemsRPG_243
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 6}
+        - {x: -14, y: -8}
+        - {x: -11, y: -16}
+        - {x: 6, y: -16}
+        - {x: 14, y: -13}
+        - {x: 14, y: 6}
+        - {x: 6, y: 14}
+        - {x: -6, y: 14}
+    - name: ItemsRPG_244
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -16, y: 4}
+        - {x: -16, y: 0}
+        - {x: -2, y: -14}
+        - {x: 2, y: -14}
+        - {x: 16, y: -4}
+        - {x: 16, y: 4}
+        - {x: 12, y: 12}
+    - name: ItemsRPG_245
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 18}
+        - {x: -5, y: 18}
+        - {x: -14, y: 0}
+        - {x: -14, y: -16}
+        - {x: -10, y: -18}
+        - {x: -1, y: -18}
+        - {x: 12, y: -6}
+        - {x: 12, y: 4}
+        - {x: 11, y: 14}
+    - name: ItemsRPG_246
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 18}
+        - {x: -12, y: 1}
+        - {x: -12, y: -14}
+        - {x: -8, y: -18}
+        - {x: 2, y: -18}
+        - {x: 14, y: -6}
+        - {x: 14, y: 9}
+        - {x: 3, y: 18}
+    - name: ItemsRPG_247
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -15}
+        - {x: -15, y: -18}
+        - {x: 4, y: -18}
+        - {x: 18, y: -13}
+        - {x: 20, y: -6}
+        - {x: 20, y: 18}
+        - {x: 6, y: 18}
+        - {x: -18, y: 14}
+    - name: ItemsRPG_248
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18}
+        - {x: -18, y: 11}
+        - {x: -18, y: 1}
+        - {x: -15, y: -13}
+        - {x: -5, y: -18}
+        - {x: 10, y: -18}
+        - {x: 18, y: -11}
+        - {x: 18, y: 6}
+        - {x: 7, y: 18}
+    - name: ItemsRPG_249
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 18}
+        - {x: -12, y: 18}
+        - {x: -16, y: 14}
+        - {x: -16, y: -17}
+        - {x: -14, y: -18}
+        - {x: 5, y: -18}
+        - {x: 14, y: -14}
+        - {x: 18, y: -11}
+        - {x: 18, y: 13}
+    - name: ItemsRPG_250
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -11, y: 13}
+        - {x: -14, y: 8}
+        - {x: -14, y: -5}
+        - {x: -9, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 14}
+    - name: ItemsRPG_251
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -11, y: 13}
+        - {x: -14, y: 8}
+        - {x: -14, y: -5}
+        - {x: -9, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 14}
+    - name: ItemsRPG_252
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -11, y: 13}
+        - {x: -14, y: 8}
+        - {x: -14, y: -5}
+        - {x: -9, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 14}
+    - name: ItemsRPG_253
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: 5}
+        - {x: -13, y: -1}
+        - {x: -5, y: -13}
+        - {x: 0, y: -16}
+        - {x: 7, y: -16}
+        - {x: 14, y: -11}
+        - {x: 14, y: 7}
+        - {x: 9, y: 16}
+    - name: ItemsRPG_254
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -14, y: 11}
+        - {x: -14, y: -5}
+        - {x: -4, y: -14}
+        - {x: 8, y: -14}
+        - {x: 12, y: -13}
+        - {x: 12, y: 8}
+        - {x: 2, y: 16}
+    - name: ItemsRPG_255
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -10, y: 16}
+        - {x: -18, y: 4}
+        - {x: -18, y: -11}
+        - {x: -10, y: -18}
+        - {x: 8, y: -18}
+        - {x: 18, y: -9}
+        - {x: 18, y: 4}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
