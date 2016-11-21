@@ -22,18 +22,6 @@ public class EquipmentPanelController : MonoBehaviour
         ActualizeViewOfEquipment();
     }
 
-    public int GetIndexOfTransform(Transform obj)
-    {
-        var tmp = _equipmentFields.IndexOf(obj);
-        if (tmp != -1)
-        {
-            return tmp;
-        }
-        else
-        {
-            return _useBarPanelController.GetIndexOfTransform(obj);
-        }
-    }
 
     public void ChangeItemsPlaces(Transform firstObject, Transform secondObject)
     {

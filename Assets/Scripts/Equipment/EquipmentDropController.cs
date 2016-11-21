@@ -26,8 +26,7 @@ public class EquipmentDropController : MonoBehaviour, IDropHandler
         {
             if (thisItem == null)
             {
-                baseComponent._item = pickedItem;
-                baseComponent._slotCount = numberOfPickedObjects;
+                baseComponent.setPickableObject(OrginalObject);
             }
             else if (thisItem.ItemID == pickedItem.ItemID)
             {

@@ -1,17 +1,17 @@
 fileFormatVersion: 2
 guid: b493e76efd2dd0d4b84aa6f825d8d7bf
-timeCreated: 1475419358
+timeCreated: 1479744109
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: ItemsRPG_0
-    21300002: ItemsRPG_1
-    21300004: ItemsRPG_2
-    21300006: ItemsRPG_3
-    21300008: ItemsRPG_4
-    21300010: ItemsRPG_5
+    21300000: Apple
+    21300002: Potato
+    21300004: Chees
+    21300006: Fish
+    21300008: Ham
+    21300010: Cake
     21300012: ItemsRPG_6
-    21300014: ItemsRPG_7
+    21300014: Carrot
     21300016: ItemsRPG_8
     21300018: ItemsRPG_9
     21300020: ItemsRPG_10
@@ -42,13 +42,13 @@ TextureImporter:
     21300070: ItemsRPG_35
     21300072: ItemsRPG_36
     21300074: ItemsRPG_37
-    21300076: ItemsRPG_38
+    21300076: FreshEgg
     21300078: ItemsRPG_39
     21300080: ItemsRPG_40
     21300082: ItemsRPG_41
     21300084: ItemsRPG_42
     21300086: ItemsRPG_43
-    21300088: ItemsRPG_44
+    21300088: Ruby
     21300090: ItemsRPG_45
     21300092: ItemsRPG_46
     21300094: ItemsRPG_47
@@ -181,11 +181,11 @@ TextureImporter:
     21300348: ItemsRPG_174
     21300350: ItemsRPG_175
     21300352: HealthPotion
-    21300354: ItemsRPG_177
-    21300356: ItemsRPG_178
-    21300358: ItemsRPG_179
-    21300360: ItemsRPG_180
-    21300362: ItemsRPG_181
+    21300354: BigHealthPotion
+    21300356: StaminaPotion
+    21300358: BigStaminaPotion
+    21300360: MultiPotion
+    21300362: MagicBalls
     21300364: ItemsRPG_182
     21300366: ItemsRPG_183
     21300368: ItemsRPG_184
@@ -198,7 +198,7 @@ TextureImporter:
     21300382: ItemsRPG_191
     21300384: ItemsRPG_192
     21300386: ItemsRPG_193
-    21300388: ItemsRPG_194
+    21300388: Bone
     21300390: ItemsRPG_195
     21300392: ItemsRPG_196
     21300394: ItemsRPG_197
@@ -306,7 +306,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: ItemsRPG_0
+    - name: Apple
       rect:
         serializedVersion: 2
         x: 0
@@ -326,7 +326,7 @@ TextureImporter:
         - {x: 12, y: -10}
         - {x: 12, y: 8}
         - {x: 7, y: 12}
-    - name: ItemsRPG_1
+    - name: Potato
       rect:
         serializedVersion: 2
         x: 48
@@ -345,7 +345,7 @@ TextureImporter:
         - {x: 10, y: -12}
         - {x: 14, y: -6}
         - {x: 14, y: 4}
-    - name: ItemsRPG_2
+    - name: Chees
       rect:
         serializedVersion: 2
         x: 96
@@ -364,7 +364,7 @@ TextureImporter:
         - {x: 10, y: -10}
         - {x: 14, y: -6}
         - {x: 14, y: 7}
-    - name: ItemsRPG_3
+    - name: Fish
       rect:
         serializedVersion: 2
         x: 144
@@ -383,7 +383,7 @@ TextureImporter:
         - {x: 12, y: -14}
         - {x: 18, y: -2}
         - {x: 18, y: 12}
-    - name: ItemsRPG_4
+    - name: Ham
       rect:
         serializedVersion: 2
         x: 192
@@ -402,7 +402,7 @@ TextureImporter:
         - {x: 16, y: -9}
         - {x: 16, y: 5}
         - {x: 13, y: 12}
-    - name: ItemsRPG_5
+    - name: Cake
       rect:
         serializedVersion: 2
         x: 240
@@ -441,7 +441,7 @@ TextureImporter:
         - {x: 14, y: -6}
         - {x: 14, y: 11}
         - {x: 11, y: 14}
-    - name: ItemsRPG_7
+    - name: Carrot
       rect:
         serializedVersion: 2
         x: 336
@@ -1041,7 +1041,7 @@ TextureImporter:
         - {x: 8, y: -12}
         - {x: 14, y: -6}
         - {x: 14, y: 4}
-    - name: ItemsRPG_38
+    - name: FreshEgg
       rect:
         serializedVersion: 2
         x: 288
@@ -1157,7 +1157,7 @@ TextureImporter:
         - {x: 16, y: -7}
         - {x: 16, y: 8}
         - {x: 9, y: 15}
-    - name: ItemsRPG_44
+    - name: Ruby
       rect:
         serializedVersion: 2
         x: 576
@@ -3751,7 +3751,7 @@ TextureImporter:
         - {x: 6, y: -18}
         - {x: 10, y: -14}
         - {x: 10, y: 16}
-    - name: ItemsRPG_177
+    - name: BigHealthPotion
       rect:
         serializedVersion: 2
         x: 48
@@ -3770,7 +3770,7 @@ TextureImporter:
         - {x: 11, y: 16}
         - {x: -7, y: 16}
         - {x: -14, y: 14}
-    - name: ItemsRPG_178
+    - name: StaminaPotion
       rect:
         serializedVersion: 2
         x: 96
@@ -3788,7 +3788,7 @@ TextureImporter:
         - {x: 6, y: -18}
         - {x: 10, y: -14}
         - {x: 10, y: 16}
-    - name: ItemsRPG_179
+    - name: BigStaminaPotion
       rect:
         serializedVersion: 2
         x: 144
@@ -3807,7 +3807,7 @@ TextureImporter:
         - {x: 11, y: 16}
         - {x: -7, y: 16}
         - {x: -14, y: 14}
-    - name: ItemsRPG_180
+    - name: MultiPotion
       rect:
         serializedVersion: 2
         x: 192
@@ -3825,7 +3825,7 @@ TextureImporter:
         - {x: 6, y: -18}
         - {x: 10, y: -14}
         - {x: 10, y: 16}
-    - name: ItemsRPG_181
+    - name: MagicBalls
       rect:
         serializedVersion: 2
         x: 240
@@ -4083,7 +4083,7 @@ TextureImporter:
         - {x: 15, y: -11}
         - {x: 18, y: -2}
         - {x: 18, y: 11}
-    - name: ItemsRPG_194
+    - name: Bone
       rect:
         serializedVersion: 2
         x: 96

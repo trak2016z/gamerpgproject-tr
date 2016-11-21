@@ -19,7 +19,8 @@ namespace Items
         Chest,
         Gloves,
         Shoes,
-        Pants
+        Pants,
+        Head
     };
 
     public enum WeaponTypes

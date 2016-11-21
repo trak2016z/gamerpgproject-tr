@@ -6,7 +6,6 @@ public class UseBarPanelController : MonoBehaviour
 {
 
     List<Transform> _useBarFields;
-    EquipmentPanelController _equipmentPanelController;
     // Use this for initialization
     void Awake()
     {
@@ -17,26 +16,16 @@ public class UseBarPanelController : MonoBehaviour
         }
     }
 
-    void Start()
+    void Update()
     {
-        var objs = FindObjectOfType<EquipmentPanelController>();
-        if (objs != null)
-        {
-            _equipmentPanelController = objs;
-        }
+        ActualizeViewOfUseBar();
     }
 
-    public int GetIndexOfTransform(Transform objToFind)
+    public void ActualizeViewOfUseBar()
     {
-        var tmp = _useBarFields.IndexOf(objToFind);
-        if (tmp != -1)
+        for (int count = 0; count < _useBarFields.Count; count++)
         {
-            return tmp;
-        }
-        else
-        {
-            return _equipmentPanelController.GetIndexOfTransform(objToFind);
+            _useBarFields[count].GetComponent<UseBarSlot>().ActualizeViewOfField();
         }
     }
-
 }

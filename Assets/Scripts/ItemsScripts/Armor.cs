@@ -4,7 +4,7 @@ using Bonuses;
 
 namespace Items
 {
-    class Armor : Item, IArmor
+    public class Armor : Item, IArmor
     {
         public ArmorTypes ArmorType { get; set; }
 
