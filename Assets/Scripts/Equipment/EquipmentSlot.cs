@@ -52,12 +52,14 @@ public class EquipmentSlot : MonoBehaviour, IUIPickableComponent
         _slotCount = -1;
         return tmp;
     }
-    public void setPickableObject(PickableObject obj){
+    public bool setPickableObject(PickableObject obj){
         if (obj.pickableObject is Item)
         {
             _item = obj.pickableObject as Item;
             _slotCount = obj.count;
+            return true;
         }
+        return false;
     }
 
 }

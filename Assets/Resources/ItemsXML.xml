@@ -20,9 +20,9 @@
     <ResourceType>Iron</ResourceType>
   </Item>
   <Item type="Potion" mass="40" icon="HealthPotion" stack="25" name="MiksturaZycia" ID="4">
-    <StatisticsID>1</StatisticsID>
-    <BeginValue>400</BeginValue>
-    <OverTimeValue>1000</OverTimeValue>
+    <StatisticsID>6</StatisticsID>
+    <BeginValue>0</BeginValue>
+    <OverTimeValue>5</OverTimeValue>
     <Duration>10.5</Duration>
   </Item>
 </Items>

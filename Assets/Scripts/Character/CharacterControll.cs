@@ -24,7 +24,7 @@ public class CharacterControll : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.B))
         {
-            GetComponent<CharacterDataController>().CharacterStatistics.FindStatistics(6).ActualValue -= 10;
+            GetComponent<CharacterDataController>().characterStatistics.FindStatistics(6).ActualValue -= 10;
         }
     }
 

@@ -5,7 +5,7 @@ using System.Collections.Generic;
 public interface IUIPickableComponent
 {
     PickableObject getPickableObject();
-    void setPickableObject(PickableObject obj);
+    bool setPickableObject(PickableObject obj);
 
     void ActualizeViewOfField();
 }

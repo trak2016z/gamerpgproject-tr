@@ -15,6 +15,7 @@ public class UseBarDropController : MonoBehaviour, IDropHandler {
 
     public void OnDrop(PointerEventData eventData)
     {
+        UIDragController.ShouldBeDroped = false;
         var baseComponent = GetComponent<UseBarSlot>();
         IPickable thisItem = null;
         #region Sprawdzenie czy komponent jest dodany do pola

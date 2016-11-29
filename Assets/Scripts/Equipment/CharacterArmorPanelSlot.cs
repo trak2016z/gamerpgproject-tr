@@ -13,29 +13,7 @@ public class CharacterArmorPanelSlot : CharacterPanelItemSlot {
         _orginalSprite = GetComponent<Image>().sprite;
 	}
 
-
-    public override bool CanItemBeAdded(Item item)
-    {
-        if(item.ItemType == ItemTypes.Armor)
-        {
-            if((item as Armor).ArmorType == actualArmorType){
-                return true;
-            }
-        }
-
-        return false;
-    }
-
-    public override void AddItem(Item item)
-    {
-        var tmp = item as IArmor;
-        if (tmp != null && tmp.ArmorType == actualArmorType)
-        {
-            _armor = tmp;
-        }
-    }
-
-    public override void ActualizeViewOfSlot()
+    public override void ActualizeViewOfField()
     {
         if (_armor != null)
         {
@@ -48,4 +26,29 @@ public class CharacterArmorPanelSlot : CharacterPanelItemSlot {
             GetComponent<Image>().color = new Color(1f, 1f, 1f, 0.2f);
         }
     }
+
+    public override  PickableObject getPickableObject()
+    {
+        var returnObj = new PickableObject();
+        returnObj.count = 1;
+        if (_armor == null)
+        {
+            returnObj.count = -1;
+        }
+        returnObj.pickableObject = _armor as IPickable;
+        _armor = null;
+        return returnObj;
+    }
+    public override bool setPickableObject(PickableObject obj)
+    {
+        var tmp = obj.pickableObject as Armor;
+        if (tmp != null && tmp.ArmorType == actualArmorType)
+        {
+            _armor = tmp;
+            return true;
+        }
+
+        return false;
+    }
+
 }

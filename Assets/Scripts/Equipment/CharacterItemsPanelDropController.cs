@@ -10,24 +10,18 @@ public class CharacterItemsPanelDropController : MonoBehaviour, IDropHandler {
         var baseComponent = GetComponent<CharacterPanelItemSlot>();
         if (baseComponent != null)
         {
+            UIDragController.ShouldBeDroped = false;
             var orginalObject = UIDragController.getPickedObject();
-            if (orginalObject.pickableObject is Item)
+			var actualObject = baseComponent.getPickableObject ();
+            if (baseComponent.setPickableObject(orginalObject))
             {
-                var pickedObject = orginalObject.pickableObject as Item;
-                if (baseComponent.CanItemBeAdded(pickedObject))
-                {
-                    baseComponent.AddItem(pickedObject);
-                }
-                else
-                {
-                    UIDragController.setPickedObject(orginalObject);
-                }
+				UIDragController.setPickedObject (actualObject);
             }
             else
             {
                 UIDragController.setPickedObject(orginalObject);
             }
-            baseComponent.ActualizeViewOfSlot();
+            baseComponent.ActualizeViewOfField();
         }
 
     }

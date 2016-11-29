@@ -7,12 +7,18 @@ public class UIDragController : MonoBehaviour, IDragHandler, IBeginDragHandler, 
 {
 
     protected Transform _dragedObjectStartTransform;
-
+    public static bool ShouldBeDroped = true;
     private GameObject _ImageWhenItemDraged;
     private static PickableObject _PickedObject;
+
+    private OnGroundObjectController _onGrounController;
+    private Transform _characterPosition;
     void Start()
     {
         _ImageWhenItemDraged = GameObject.Find("DragedItemImage");
+        _onGrounController = GameObject.FindObjectOfType<OnGroundObjectController>();
+        _characterPosition = GameObject.FindObjectOfType<CharacterControll>().transform;
+
     }
     // Use this for initialization
 
@@ -38,7 +44,10 @@ public class UIDragController : MonoBehaviour, IDragHandler, IBeginDragHandler, 
 
     public void OnEndDrag(PointerEventData eventData)
     {
-        if (_PickedObject.pickableObject != null)
+        if (ShouldBeDroped)
+        {
+            _onGrounController.AddObjectOnGround(_PickedObject, _characterPosition.position);
+        }else if (_PickedObject.pickableObject != null)
         {
             Debug.Log("PickedOBJ: " + _PickedObject.pickableObject.ToString() + " count: " + _PickedObject.count.ToString());
             _dragedObjectStartTransform.GetComponent<IUIPickableComponent>().setPickableObject(getPickedObject());
@@ -51,6 +60,7 @@ public class UIDragController : MonoBehaviour, IDragHandler, IBeginDragHandler, 
         _ImageWhenItemDraged.GetComponent<Image>().sprite = null;
         _ImageWhenItemDraged.transform.position = new Vector3(-1000f, -1000f, 0);
         //_dragedObjectStartTransform.GetComponent<Image>().raycastTarget = true;
+        ShouldBeDroped = true;
     }
 
     public static PickableObject getPickedObject()

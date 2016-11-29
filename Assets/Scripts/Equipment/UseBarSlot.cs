@@ -33,13 +33,6 @@ public class UseBarSlot : MonoBehaviour, IUIPickableComponent {
         }
 
     }
-
-    public void UseItem(){
-        if(_item != null){
-
-        }
-    }
-
     public PickableObject getPickableObject()
     {
         PickableObject tmp = new PickableObject();
@@ -49,18 +42,40 @@ public class UseBarSlot : MonoBehaviour, IUIPickableComponent {
         _slotCount = -1;
         return tmp;
     }
-    public void setPickableObject(PickableObject obj)
+    public bool setPickableObject(PickableObject obj)
     {
         if (obj.pickableObject is IUsable)
         {
             Debug.Log("Jest Usable");
             _item = obj.pickableObject as IPickable;
             _slotCount = obj.count;
+            return true;
         }
         else
         {
             Debug.Log("NIE Jest Usable");
         }
+        return false;
+    }
+
+    public void UseObject()
+    {
+        if (_item != null)
+        {
+            var tmp = _item as IUsable;
+            if (tmp != null)
+            {
+                _slotCount--;
+                tmp.Use();
+
+                if (_slotCount <= 0)
+                {
+                    _slotCount = -1;
+                    _item = null;
+                }
+            }
+        }
+        ActualizeViewOfField();
     }
 
 }

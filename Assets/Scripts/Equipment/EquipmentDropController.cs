@@ -13,6 +13,7 @@ public class EquipmentDropController : MonoBehaviour, IDropHandler
 
     public void OnDrop(PointerEventData eventData)
     {
+        UIDragController.ShouldBeDroped = false;
         var baseComponent = GetComponent<EquipmentSlot>();
         Item thisItem = null;
         if (baseComponent != null)

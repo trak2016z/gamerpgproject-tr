@@ -1,4 +1,5 @@
 ﻿using System;
+using UnityEngine;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,7 +8,7 @@ using Usable;
 
 namespace Items
 {
-    class Potion : Item, IPotion, IUsable
+    public class Potion : Item, IPotion, IUsable
     {
         public int Statistics { get; set; }
         public float BeginValue { get; set; }
@@ -27,7 +28,7 @@ namespace Items
         }
         public void Use()
         {
-
+            GameObject.FindObjectOfType<CharacterDataController>().UsePotion(this);
         }
     }
 }

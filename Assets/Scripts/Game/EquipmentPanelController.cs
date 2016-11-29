@@ -22,6 +22,19 @@ public class EquipmentPanelController : MonoBehaviour
         ActualizeViewOfEquipment();
     }
 
+    void Start()
+    {
+        for (int a = 0; a < 10; a++)
+        {
+            var item = ItemsStorage.getInstace().GetItem(ItemTypes.Potion, 4);
+            AddItemToEquipment(new PickableObject() { pickableObject = item, count = 10 });
+        }
+        AddItemToEquipment(new PickableObject() { pickableObject = ItemsStorage.getInstace().GetItem(ItemTypes.Weapon, 1), count = 1 });
+        AddItemToEquipment(new PickableObject() { pickableObject = ItemsStorage.getInstace().GetItem(ItemTypes.Weapon, 2), count = 1 });
+
+
+        ActualizeViewOfEquipment();
+    }
 
     public void ChangeItemsPlaces(Transform firstObject, Transform secondObject)
     {
@@ -81,18 +94,26 @@ public class EquipmentPanelController : MonoBehaviour
         }
     }
 
-    public bool AddItemToEquipment(Item item, int count)
+    public bool AddItemToEquipment(PickableObject _object)
     {
-        for (int a = 0; a < _equipmentFields.Count; a++)
+        Debug.Log("AddingObject: " + _object.pickableObject.ToString() + "  " + _object.count.ToString());
+        var item = _object.pickableObject as Item;
+        var count = _object.count;
+        if (item != null)
         {
-            if(_equipmentFields[a].GetComponent<EquipmentSlot>()._item != null){ 
-                continue; 
-            }
-            else{
-                _equipmentFields[a].GetComponent<EquipmentSlot>()._item = item;
-                _equipmentFields[a].GetComponent<EquipmentSlot>()._slotCount = count;
-
-                return true;
+            for (int a = 0; a < _equipmentFields.Count; a++)
+            {
+                if (_equipmentFields[a].GetComponent<EquipmentSlot>()._item != null)
+                {
+                    continue;
+                }
+                else
+                {
+                    _equipmentFields[a].GetComponent<EquipmentSlot>()._item = item;
+                    _equipmentFields[a].GetComponent<EquipmentSlot>()._slotCount = count;
+                    _equipmentFields[a].GetComponent<EquipmentSlot>().ActualizeViewOfField();
+                    return true;
+                }
             }
         }
         return false;

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Items
 {
-    class Resource : Item, IResource
+    public class Resource : Item, IResource
     {
         public string ResourceType { get; set; }
 
