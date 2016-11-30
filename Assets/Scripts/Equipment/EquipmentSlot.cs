@@ -2,8 +2,9 @@
 using System.Collections;
 using Items;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
-public class EquipmentSlot : MonoBehaviour, IUIPickableComponent
+public class EquipmentSlot : MonoBehaviour, IUIPickableComponent, IPointerEnterHandler, IPointerExitHandler
 {
 
     public Item _item { get; set; }
@@ -11,12 +12,18 @@ public class EquipmentSlot : MonoBehaviour, IUIPickableComponent
 
     public Image _itemImage;
     public Text _itemCountText;
+
+	ItemsDataPanelController _itemDataPanelController;
     // Use this for initialization
     void Awake()
     {
         _item = null;
         _slotCount = -1;
     }
+
+	void Start(){
+		_itemDataPanelController = GameObject.FindObjectOfType<ItemsDataPanelController> ();
+	}
 
     public void ActualizeViewOfField()
     {
@@ -61,5 +68,16 @@ public class EquipmentSlot : MonoBehaviour, IUIPickableComponent
         }
         return false;
     }
+
+	public void OnPointerEnter( PointerEventData data){
+		if (!_itemDataPanelController.IsObjectUsing) {
+			_itemDataPanelController.UpdateViewOfItem (new PickableObject (){ pickableObject = _item, count = _slotCount });
+			_itemDataPanelController.IsObjectUsing = true;
+		}
+	}
+
+	public void OnPointerExit(PointerEventData data){
+		_itemDataPanelController.IsObjectUsing = false;
+	}
 
 }

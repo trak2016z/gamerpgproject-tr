@@ -22,6 +22,13 @@ public class EquipmentPanelController : MonoBehaviour
         ActualizeViewOfEquipment();
     }
 
+	void OnDisable(){
+		var tmp = FindObjectOfType<ItemsDataPanelController> ();
+		if (tmp != null) {
+			tmp.IsObjectUsing = false;
+		}
+	}
+
     void Start()
     {
         for (int a = 0; a < 10; a++)

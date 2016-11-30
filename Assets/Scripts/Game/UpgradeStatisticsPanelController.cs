@@ -19,7 +19,6 @@ public class UpgradeStatisticsPanelController : MonoBehaviour {
         try
         {
             _characterDataController = GameObject.FindObjectOfType<CharacterDataController>();
-            Debug.Log(_characterDataController);
         }
         catch (NullReferenceException)
         {
