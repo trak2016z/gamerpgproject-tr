@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: b493e76efd2dd0d4b84aa6f825d8d7bf
-timeCreated: 1479744109
+timeCreated: 1480965466
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -1244,17 +1244,17 @@ TextureImporter:
         y: 576
         width: 48
         height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.2934266, y: 0.27965546}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -16, y: -13}
-        - {x: -14, y: -16}
-        - {x: 4, y: -16}
-        - {x: 16, y: 2}
-        - {x: 16, y: 16}
-        - {x: 8, y: 16}
-        - {x: -16, y: 5}
+      - - {x: -6.0844765, y: -2.423462}
+        - {x: -4.0844765, y: -5.423462}
+        - {x: 13.915524, y: -5.423462}
+        - {x: 25.915524, y: 12.576538}
+        - {x: 25.915524, y: 26.576538}
+        - {x: 17.915524, y: 26.576538}
+        - {x: -6.0844765, y: 15.576538}
     - name: ItemsRPG_49
       rect:
         serializedVersion: 2
@@ -1438,17 +1438,17 @@ TextureImporter:
         y: 576
         width: 48
         height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.1654555, y: 0.16060765}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -2, y: 20}
-        - {x: -18, y: 7}
-        - {x: -20, y: -2}
-        - {x: -20, y: -20}
-        - {x: 3, y: -20}
-        - {x: 20, y: -6}
-        - {x: 20, y: 20}
+      - - {x: 14.058136, y: 36.290833}
+        - {x: -1.941864, y: 23.290833}
+        - {x: -3.941864, y: 14.2908325}
+        - {x: -3.941864, y: -3.7091675}
+        - {x: 19.058136, y: -3.7091675}
+        - {x: 36.058136, y: 10.2908325}
+        - {x: 36.058136, y: 36.290833}
     - name: ItemsRPG_59
       rect:
         serializedVersion: 2

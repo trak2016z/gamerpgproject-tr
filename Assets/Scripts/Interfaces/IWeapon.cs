@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Items
 {
-    interface IWeapon
+    public interface IWeapon
     {
         WeaponTypes WeaponType { get; set; }
         int MinimalDamage { get; set; }
