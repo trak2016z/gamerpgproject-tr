@@ -57,7 +57,12 @@
      <Compile Include="Assets\Scripts\Character\LoadData.cs" />
      <Compile Include="Assets\Scripts\Character\Statistics.cs" />
      <Compile Include="Assets\Scripts\Enemies\Enemies.cs" />
+     <Compile Include="Assets\Scripts\Enemies\EnemiesController.cs" />
+     <Compile Include="Assets\Scripts\Enemies\EnemiesSpawner.cs" />
      <Compile Include="Assets\Scripts\Enemies\IEnemies.cs" />
+     <Compile Include="Assets\Scripts\Enemies\MonsterController.cs" />
+     <Compile Include="Assets\Scripts\Enemies\NozownikController.cs" />
+     <Compile Include="Assets\Scripts\Enemies\Skeleton.cs" />
      <Compile Include="Assets\Scripts\Enemies\Worm.cs" />
      <Compile Include="Assets\Scripts\Equipment\CharacterArmorPanelSlot.cs" />
      <Compile Include="Assets\Scripts\Equipment\CharacterItemsPanelDropController.cs" />

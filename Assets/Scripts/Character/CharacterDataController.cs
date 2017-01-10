@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 using Items;
 
 namespace Character
@@ -51,6 +52,27 @@ namespace Character
 		public string GetStatisticsName (int statisticsID)
 		{
 			return characterStatistics.GetStatisticsName (statisticsID);
+		}
+
+		public void SetDamage(float value){
+			Statistics stat;
+			characterStatistics.GetStatistics (6, out stat);
+			if (stat == null) {
+				return;
+			}
+			stat.ActualValue = Mathf.Clamp (stat.ActualValue - value, 0, stat.MaximalValue);
+			Debug.Log ("Health: " + stat.ActualValue.ToString ());
+		}
+
+		public void SetDamage(List<int> values){
+			Statistics stat;
+			characterStatistics.GetStatistics (6, out stat);
+			if (stat == null) {
+				return;
+			}
+			foreach (var value in values) {
+				stat.ActualValue = Mathf.Clamp (stat.ActualValue - value, 0, stat.MaximalValue);
+			}
 		}
 
 	}

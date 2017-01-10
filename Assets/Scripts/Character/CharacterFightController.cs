@@ -17,7 +17,7 @@ public class CharacterFightController : MonoBehaviour
 
 	public float RotateSpeed{ get; set; }
 
-	public float RotateDeaceleration = 0.5f;
+	public float RotateDeaceleration = 0.1f;
 
 	// Use this for initialization
 	void Start ()
@@ -52,7 +52,7 @@ public class CharacterFightController : MonoBehaviour
 			if (distance == 0 || TimeOfAttack == 0) { 
 				return;
 			}
-			RotateSpeed = distance * 1 / TimeOfAttack * 0.02f;
+			RotateSpeed = Mathf.Clamp (distance * 1 / TimeOfAttack * 0.02f, -_leftHandWeapon.Range, _leftHandWeapon.Range);
 			Debug.Log (distance.ToString () + "  " + TimeOfAttack.ToString () + "   " + RotateSpeed.ToString ());
 			IsFighting = false;
 			_renderer.gameObject.SetActive (true);
@@ -84,9 +84,22 @@ public class CharacterFightController : MonoBehaviour
 			Destroy (GetComponentInChildren<PolygonCollider2D> ());
 			GetComponentInParent<SpriteRenderer> ().sprite = _leftHandWeapon.getImage ();
 			gameObject.AddComponent<PolygonCollider2D> ();
+			gameObject.GetComponent<PolygonCollider2D> ().isTrigger = true;
 
 		} else {
 			Debug.Log ("Weapon Slot Null Exception");
 		}
 	}
+
+	void OnTriggerEnter2D(Collider2D other) {
+		var monsterComponent = other.GetComponent<MonsterController> ();
+		if (monsterComponent == null) {
+			return;
+		}
+		var dmg = Random.Range(_leftHandWeapon.MinimalDamage, _leftHandWeapon.MaximalDamage) * (RotateSpeed / _leftHandWeapon.Range);
+		monsterComponent.setDamage (dmg);
+		Debug.Log (dmg);
+		Debug.Log (dmg.ToString ());
+	}
+
 }
